@@ -1,0 +1,43 @@
+{
+  "citadel_format": 0,
+  "biomes": [
+    [
+      {
+        "type": "BIOME_DICT",
+        "negate": true,
+        "value": "overworld"
+      },
+      {
+        "type": "BIOME_DICT",
+        "negate": true,
+        "value": "beach"
+      }
+    ],
+    [
+      {
+        "type": "BIOME_DICT",
+        "negate": true,
+        "value": "overworld"
+      },
+      {
+        "type": "BIOME_CATEGORY",
+        "negate": true,
+        "value": "beach"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": true,
+        "value": "byg:dacite_shore"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": true,
+        "value": "byg:basalt_barrera"
+      }
+    ]
+  ]
+}
