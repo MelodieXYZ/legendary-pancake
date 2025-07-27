@@ -279,3 +279,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [27Jul2025 23:39:03.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:50141] logged in with entity id 11636 at (1359.300000011921, 72.0, 719.2828178741936)
 [27Jul2025 23:39:03.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
 [27Jul2025 23:41:48.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Hidden in the Depths]
+[27Jul2025 23:43:20.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[27Jul2025 23:43:37.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2368ms or 47 ticks behind
+[27Jul2025 23:50:38.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
+[27Jul2025 23:50:38.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gamemode spectador DiamondKingx<--[HERE]
+[27Jul2025 23:50:57.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[27Jul2025 23:51:09.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Spectator Mode
+[27Jul2025 23:54:30.173] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
+[27Jul2025 23:54:30.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game

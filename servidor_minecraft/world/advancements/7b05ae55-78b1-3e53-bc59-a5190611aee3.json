@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-27 23:40:14 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
       "crafted_book": "2025-07-19 00:49:09 +0000"
@@ -275,6 +281,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/quartz_shuriken": {
+    "criteria": {
+      "has_item": "2025-07-27 23:40:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-07-19 01:03:45 +0000"
@@ -422,6 +434,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-07-19 02:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-27 23:40:14 +0000"
     },
     "done": true
   },
@@ -620,6 +638,12 @@
   "armorplus:recipes/armorplus.items/crafting/shaped/enhanced/en_iron": {
     "criteria": {
       "has_req": "2025-07-19 02:01:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-27 23:41:48 +0000"
     },
     "done": true
   },
@@ -1820,6 +1844,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-07-27 23:41:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-19 02:43:05 +0000"
@@ -1841,6 +1871,12 @@
   "travelersbackpack:recipes/travelersbackpack/spider": {
     "criteria": {
       "has_string": "2025-07-22 00:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-27 23:41:48 +0000"
     },
     "done": true
   },
@@ -1871,6 +1907,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-07-19 01:46:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-27 23:40:14 +0000"
     },
     "done": true
   },
@@ -2178,6 +2220,12 @@
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
       "bestiary": "2025-07-21 22:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-27 23:40:14 +0000"
     },
     "done": true
   },
@@ -2772,6 +2820,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/quartz": {
+    "criteria": {
+      "has_quartz": "2025-07-27 23:40:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-07-20 21:10:04 +0000"
@@ -2928,6 +2982,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/common/glass/vanilla/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-27 23:40:14 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/green_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2025-07-21 22:30:08 +0000"
@@ -3039,6 +3099,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-07-19 01:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-27 23:40:14 +0000"
     },
     "done": true
   },
@@ -3201,6 +3267,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-07-21 06:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-27 23:40:14 +0000"
     },
     "done": true
   },
