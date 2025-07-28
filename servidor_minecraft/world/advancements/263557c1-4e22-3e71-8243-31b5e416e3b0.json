@@ -4766,6 +4766,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/hay": {
+    "criteria": {
+      "has_wheat": "2025-07-28 00:39:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-07-19 01:08:47 +0000"
