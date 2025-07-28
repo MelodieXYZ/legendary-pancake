@@ -655,6 +655,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-28 03:57:53 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.armors/crafting/shaped/lapis/lapis_leggings": {
     "criteria": {
       "has_req": "2025-07-21 03:12:58 +0000"
@@ -700,6 +706,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-20 23:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-28 03:55:11 +0000"
     },
     "done": true
   },
@@ -1063,6 +1075,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-07-28 04:05:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-07-19 01:09:37 +0000"
@@ -1144,6 +1162,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/emerald/emerald_battle_axe": {
     "criteria": {
       "has_req": "2025-07-19 00:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-07-28 03:52:42 +0000"
     },
     "done": true
   },
@@ -1645,6 +1669,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2025-07-28 04:02:20 +0000",
       "minecraft:sheep": "2025-07-20 05:36:33 +0000"
     },
     "done": false
@@ -1835,6 +1860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-28 03:55:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-07-19 03:05:35 +0000"
@@ -1898,6 +1929,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-07-19 01:12:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/gongylidia": {
+    "criteria": {
+      "gongylidia": "2025-07-28 04:05:48 +0000"
     },
     "done": true
   },
@@ -2234,6 +2271,12 @@
   "travelersbackpack:recipes/travelersbackpack/coal": {
     "criteria": {
       "has_coal": "2025-07-21 21:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-28 03:55:11 +0000"
     },
     "done": true
   },
@@ -5324,6 +5367,13 @@
       "has_blaze_rod": "2025-07-21 23:32:57 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/black.png": "2025-07-28 03:57:53 +0000",
+      "textures/entity/cat/ragdoll.png": "2025-07-28 04:01:31 +0000"
+    },
+    "done": false
   },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/obsidian/obsidian_bow_alt": {
     "criteria": {
