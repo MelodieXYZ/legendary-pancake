@@ -287,3 +287,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [27Jul2025 23:51:09.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Spectator Mode
 [27Jul2025 23:54:30.173] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
 [27Jul2025 23:54:30.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[27Jul2025 23:58:53.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 2469.500000, 65.000000, 7436.500000
+[27Jul2025 23:59:23.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Survival Mode
