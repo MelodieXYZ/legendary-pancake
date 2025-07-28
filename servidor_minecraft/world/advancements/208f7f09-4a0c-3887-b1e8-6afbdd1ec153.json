@@ -617,6 +617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-28 04:20:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-07-20 20:00:19 +0000"
@@ -799,6 +805,7 @@
       "minecraft:hoglin": "2025-07-28 03:08:17 +0000",
       "minecraft:magma_cube": "2025-07-28 03:34:22 +0000",
       "minecraft:spider": "2025-07-20 20:53:20 +0000",
+      "minecraft:creeper": "2025-07-28 04:30:17 +0000",
       "minecraft:witch": "2025-07-19 04:27:00 +0000",
       "minecraft:wither_skeleton": "2025-07-28 03:19:37 +0000",
       "minecraft:piglin": "2025-07-28 03:08:52 +0000",
@@ -2496,6 +2503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-07-28 04:20:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-07-19 03:25:19 +0000"
@@ -2637,6 +2650,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-07-19 03:25:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-07-28 04:28:45 +0000"
     },
     "done": true
   },
@@ -3489,6 +3508,12 @@
   "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
       "bestiary": "2025-07-19 04:58:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-28 04:29:26 +0000"
     },
     "done": true
   },
