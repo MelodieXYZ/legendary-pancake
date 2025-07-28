@@ -171,3 +171,13 @@
 [28Jul2025 04:39:10.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
 [28Jul2025 04:39:15.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
 [28Jul2025 04:39:15.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
+[28Jul2025 04:41:06.322] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@755e34de
+[28Jul2025 04:41:06.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:54951] logged in with entity id 169060 at (1017.837633468031, 106.54975981463959, 769.503408193646)
+[28Jul2025 04:41:06.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[28Jul2025 04:41:45.326] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6c52af28
+[28Jul2025 04:41:45.331] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:41777] logged in with entity id 169832 at (3361.4855678086205, 64.65672518684985, -83.22409468269865)
+[28Jul2025 04:41:45.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
+[28Jul2025 04:42:09.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki drowned
+[28Jul2025 04:42:16.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki drowned
+[28Jul2025 04:44:32.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was incinerated by Fire Dragon
+[28Jul2025 04:45:32.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was incinerated by Fire Dragon
