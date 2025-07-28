@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/duct": {
+    "criteria": {
+      "has_item": "2025-07-28 06:31:11 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-07-19 00:49:09 +0000"
@@ -605,6 +611,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_boots": {
+    "criteria": {
+      "has_item": "2025-07-28 06:31:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-07-19 00:50:50 +0000"
@@ -670,6 +682,13 @@
       "has_string": "2025-07-20 02:53:42 +0000"
     },
     "done": true
+  },
+  "tconstruct:foundry/plate_armor": {
+    "criteria": {
+      "crafted_leggings": "2025-07-28 06:36:33 +0000",
+      "crafted_boots": "2025-07-28 06:36:49 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
@@ -1206,6 +1225,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/cobalt_block_from_ingots": {
+    "criteria": {
+      "has_item": "2025-07-28 06:31:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-07-20 17:53:17 +0000"
@@ -1551,6 +1576,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/duct": {
+    "criteria": {
+      "has_item": "2025-07-28 06:31:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-07-19 00:50:50 +0000"
@@ -1874,6 +1905,12 @@
   "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_bow_base_alt": {
     "criteria": {
       "has_req": "2025-07-20 02:53:42 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-28 06:31:11 +0000"
     },
     "done": true
   },
@@ -2613,6 +2650,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_shield": {
+    "criteria": {
+      "has_item": "2025-07-28 06:31:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-19 01:57:44 +0000"
@@ -2634,6 +2677,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-07-19 02:01:52 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_helmet": {
+    "criteria": {
+      "has_item": "2025-07-28 06:31:11 +0000"
     },
     "done": true
   },
@@ -2931,6 +2980,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/cobalt_platform": {
+    "criteria": {
+      "has_bars": "2025-07-28 06:31:11 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials/cobalt_ingot_smelting": {
     "criteria": {
       "has_item": "2025-07-28 06:03:08 +0000"
@@ -3024,6 +3079,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-07-19 01:46:12 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/cobalt_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-28 06:31:11 +0000"
     },
     "done": true
   },
@@ -3204,6 +3265,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-19 01:41:33 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_leggings": {
+    "criteria": {
+      "has_item": "2025-07-28 06:31:11 +0000"
     },
     "done": true
   },
@@ -3414,6 +3481,12 @@
   "travelersbackpack:recipes/travelersbackpack/iron": {
     "criteria": {
       "has_iron_ingot": "2025-07-21 22:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-28 06:32:55 +0000"
     },
     "done": true
   },
