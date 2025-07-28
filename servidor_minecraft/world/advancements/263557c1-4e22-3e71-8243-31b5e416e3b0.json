@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-07-28 07:08:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-07-19 05:12:25 +0000"
@@ -251,6 +257,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/food/cooked_kangaroo_meat_campfire": {
+    "criteria": {
+      "has_items": "2025-07-28 07:14:22 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/tools/modifiers/wither_bone_conversion": {
     "criteria": {
       "has_bone": "2025-07-21 23:30:56 +0000"
@@ -284,6 +296,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-19 00:55:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2025-07-28 07:08:18 +0000"
     },
     "done": true
   },
@@ -550,6 +568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-07-28 07:08:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-07-19 01:38:22 +0000"
@@ -583,6 +607,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-07-21 23:06:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2025-07-28 07:03:40 +0000"
     },
     "done": true
   },
@@ -697,6 +727,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-07-19 01:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2025-07-28 07:08:18 +0000"
     },
     "done": true
   },
@@ -1358,6 +1394,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-07-28 07:15:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-19 00:55:07 +0000"
@@ -1499,6 +1541,12 @@
   "armorplus:recipes/armorplus.armors/crafting/shaped/infused_lava/infused_lava_leggings": {
     "criteria": {
       "has_req": "2025-07-21 07:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-07-28 07:08:17 +0000"
     },
     "done": true
   },
@@ -1755,6 +1803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-07-28 07:08:17 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-07-19 01:59:39 +0000"
@@ -1890,6 +1944,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-07-21 23:56:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/combat/emu_leggings": {
+    "criteria": {
+      "has_items": "2025-07-28 07:15:10 +0000"
     },
     "done": true
   },
@@ -2040,6 +2100,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-07-19 02:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_green_dye": "2025-07-28 07:08:18 +0000"
     },
     "done": true
   },
@@ -2289,6 +2355,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/food/kangaroo_burger": {
+    "criteria": {
+      "has_items": "2025-07-28 07:14:43 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_chestplate": {
     "criteria": {
       "has_item": "2025-07-19 01:50:17 +0000"
@@ -2328,6 +2400,18 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-07-20 17:45:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/misc/banner_pattern_australia_1": {
+    "criteria": {
+      "has_items": "2025-07-28 07:15:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/misc/banner_pattern_australia_0": {
+    "criteria": {
+      "has_items": "2025-07-28 07:16:10 +0000"
     },
     "done": true
   },
@@ -2376,6 +2460,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-07-21 23:32:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-07-28 07:08:22 +0000"
     },
     "done": true
   },
@@ -2598,6 +2688,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-07-19 01:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-07-28 07:08:22 +0000"
     },
     "done": true
   },
@@ -3665,6 +3761,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/misc/kangaroo_hide_to_leather": {
+    "criteria": {
+      "has_items": "2025-07-28 07:16:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-07-19 01:14:44 +0000"
@@ -4353,6 +4455,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-07-28 07:14:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-20 22:57:38 +0000"
@@ -4370,6 +4478,7 @@
       "cooked_cod": "2025-07-28 03:12:09 +0000",
       "bread": "2025-07-19 02:07:32 +0000",
       "rotten_flesh": "2025-07-19 01:43:39 +0000",
+      "melon_slice": "2025-07-28 07:09:10 +0000",
       "cooked_chicken": "2025-07-19 01:13:22 +0000",
       "cooked_salmon": "2025-07-20 21:27:50 +0000",
       "carrot": "2025-07-19 07:02:18 +0000"
@@ -4481,6 +4590,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-21 23:56:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2025-07-28 07:08:18 +0000"
     },
     "done": true
   },
@@ -4862,6 +4977,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/food/cooked_kangaroo_meat": {
+    "criteria": {
+      "has_items": "2025-07-28 07:14:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-07-22 00:47:38 +0000"
@@ -5111,6 +5232,12 @@
   "armorplus:recipes/armorplus.armors/crafting/shaped/frost/frost_leggings": {
     "criteria": {
       "has_req": "2025-07-28 06:54:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-07-28 07:08:18 +0000"
     },
     "done": true
   },
@@ -5381,6 +5508,12 @@
   "alexsmobs:recipes/combat/blood_sprayer": {
     "criteria": {
       "has_items": "2025-07-22 00:06:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/food/cooked_kangaroo_meat_smoke": {
+    "criteria": {
+      "has_items": "2025-07-28 07:14:22 +0000"
     },
     "done": true
   },
