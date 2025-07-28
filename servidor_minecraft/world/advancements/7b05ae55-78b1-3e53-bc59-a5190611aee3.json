@@ -1580,6 +1580,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-28 02:41:01 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/travelersbackpack/yellow_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2025-07-21 22:30:08 +0000"
@@ -1769,6 +1775,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/lapis/lapis_pickaxe": {
     "criteria": {
       "has_req": "2025-07-19 00:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-28 02:41:00 +0000"
     },
     "done": true
   },
@@ -2535,6 +2547,12 @@
   "travelersbackpack:recipes/travelersbackpack/cake": {
     "criteria": {
       "has_egg": "2025-07-21 22:17:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-28 02:41:00 +0000"
     },
     "done": true
   },
