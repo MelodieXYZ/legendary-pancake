@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/misc/mosquito_larva": {
+    "criteria": {
+      "has_items": "2025-07-28 03:44:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-07-20 20:18:46 +0000"
@@ -878,6 +884,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-07-20 23:10:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-07-28 03:44:52 +0000"
     },
     "done": true
   },
@@ -3403,6 +3415,12 @@
   "tconstruct:recipes/tconstruct/world/common/slime/sky/slimeblock": {
     "criteria": {
       "has_item": "2025-07-19 03:28:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/combat/blood_sprayer": {
+    "criteria": {
+      "has_items": "2025-07-28 03:44:57 +0000"
     },
     "done": true
   },
