@@ -408,3 +408,45 @@
 [28Jul2025 07:24:20.148] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PredatorX_2000 with unique ID travelersbackpack.bookshelf_28.07.2025-07.24.20.dat
 [28Jul2025 07:24:20.148] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1454 Y: 65 Z: 2158
 [28Jul2025 07:24:26.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
+[28Jul2025 07:25:12.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
+[28Jul2025 07:25:12.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[28Jul2025 07:25:14.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was struck with lightning by Lightning Dragon
+[28Jul2025 07:25:39.661] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5aba5a3c
+[28Jul2025 07:25:39.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:37451] logged in with entity id 272778 at (1454.5619054563745, 71.0, 2163.089636289339)
+[28Jul2025 07:25:39.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[28Jul2025 07:25:43.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
+[28Jul2025 07:27:10.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
+[28Jul2025 07:27:10.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[28Jul2025 07:27:34.269] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@11a72eee
+[28Jul2025 07:27:34.274] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:39047] logged in with entity id 273546 at (1442.300000011921, 74.0, 2082.5177596094477)
+[28Jul2025 07:27:34.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[28Jul2025 07:27:55.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was energized by Lightning Dragon
+[28Jul2025 07:28:03.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
+[28Jul2025 07:28:03.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[28Jul2025 07:28:22.709] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@190c95df
+[28Jul2025 07:28:22.713] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:36219] logged in with entity id 273800 at (1457.53277606093, 71.0, 2087.0797744045885)
+[28Jul2025 07:28:22.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[28Jul2025 07:28:30.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
+[28Jul2025 07:28:30.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[28Jul2025 07:28:31.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No entity was found
+[28Jul2025 07:28:39.666] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6e52aa99
+[28Jul2025 07:28:39.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:38441] logged in with entity id 273947 at (1455.6697231611836, 71.0, 2086.506256519251)
+[28Jul2025 07:28:39.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[28Jul2025 07:28:40.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
+[28Jul2025 07:29:59.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was struck with lightning by Lightning Dragon
+[28Jul2025 07:30:08.208] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
+[28Jul2025 07:30:08.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[28Jul2025 07:30:34.211] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1f702ddf
+[28Jul2025 07:30:34.214] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:40045] logged in with entity id 274643 at (1411.699999988079, 84.0, 1967.3716554531138)
+[28Jul2025 07:30:34.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[28Jul2025 07:30:37.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
+[28Jul2025 07:30:49.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was slain by Ancient Spirit
+[28Jul2025 07:30:55.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was energized by Lightning Dragon
+[28Jul2025 07:31:08.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 was energized by Lightning Dragon
+[28Jul2025 07:31:08.611] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PredatorX_2000 with unique ID travelersbackpack.bookshelf_28.07.2025-07.31.08.dat
+[28Jul2025 07:31:08.611] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1349 Y: 67 Z: 2028
+[28Jul2025 07:31:13.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
+[28Jul2025 07:31:19.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by Ancient Spirit
+[28Jul2025 07:31:27.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 was slain by Ancient Spirit
+[28Jul2025 07:31:32.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
+[28Jul2025 07:32:19.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Creative Mode
