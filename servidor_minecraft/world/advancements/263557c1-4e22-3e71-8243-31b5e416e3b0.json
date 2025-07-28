@@ -2961,6 +2961,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/emerald": {
+    "criteria": {
+      "has_emerald": "2025-07-28 07:45:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-07-19 02:06:33 +0000"
@@ -3966,6 +3972,7 @@
       "minecraft:wooded_badlands": "2025-07-19 06:06:19 +0000",
       "minecraft:bamboo_jungle": "2025-07-27 23:54:06 +0000",
       "minecraft:badlands": "2025-07-19 06:11:47 +0000",
+      "minecraft:savanna_plateau": "2025-07-28 07:46:22 +0000",
       "minecraft:beach": "2025-07-19 00:53:40 +0000",
       "minecraft:dark_forest": "2025-07-19 01:01:51 +0000",
       "minecraft:sparse_jungle": "2025-07-19 04:05:19 +0000",
