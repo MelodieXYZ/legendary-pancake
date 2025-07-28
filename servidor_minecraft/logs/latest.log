@@ -33,3 +33,24 @@
 [28Jul2025 02:15:14.800] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
 [28Jul2025 02:15:23.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
 [28Jul2025 02:15:23.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
+[28Jul2025 02:19:28.410] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@51577859
+[28Jul2025 02:19:28.415] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:36039] logged in with entity id 86227 at (2746.6875, 62.07326432466507, -97.6875)
+[28Jul2025 02:19:28.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
+[28Jul2025 02:20:00.227] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[28Jul2025 02:20:19.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
+[28Jul2025 02:20:19.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
+[28Jul2025 02:21:53.710] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2e8ce59e
+[28Jul2025 02:21:53.715] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:39527] logged in with entity id 87108 at (2699.6979858506957, 63.0, -91.93244364804993)
+[28Jul2025 02:21:53.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
+[28Jul2025 02:22:34.750] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[28Jul2025 02:28:59.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ninouzumaki) moved wrongly! 0.28070088230435886
+[28Jul2025 02:28:59.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ninouzumaki) moved wrongly! 0.8513324945975
+[28Jul2025 02:28:59.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ninouzumaki) moved wrongly! 0.5145138782036156
+[28Jul2025 02:28:59.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ninouzumaki) moved wrongly! 0.49589127491447016
+[28Jul2025 02:29:01.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
+[28Jul2025 02:29:01.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
+[28Jul2025 02:32:36.961] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3c835e82
+[28Jul2025 02:32:36.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:36583] logged in with entity id 91452 at (2989.699999988079, 62.0, -590.8340100509031)
+[28Jul2025 02:32:36.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
+[28Jul2025 02:36:10.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
+[28Jul2025 02:36:10.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game

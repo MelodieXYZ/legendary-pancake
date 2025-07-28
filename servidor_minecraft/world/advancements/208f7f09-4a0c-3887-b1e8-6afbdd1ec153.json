@@ -3200,6 +3200,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/storage/frost_crystal": {
+    "criteria": {
+      "has_req": "2025-07-28 02:27:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-07-19 03:25:19 +0000"
