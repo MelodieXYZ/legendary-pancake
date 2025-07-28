@@ -1,516 +1,198 @@
-[28Jul2025 00:12:51.524] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@b752c6d
-[28Jul2025 00:12:51.530] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:53309] logged in with entity id 24401 at (1275.300000011921, 69.0, 730.6999999880791)
-[28Jul2025 00:12:51.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[28Jul2025 00:13:01.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4980ms or 99 ticks behind
-[28Jul2025 00:13:04.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[28Jul2025 00:13:04.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[28Jul2025 00:13:25.421] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4c89c3b8
-[28Jul2025 00:13:25.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:48119] logged in with entity id 25568 at (1275.300000011921, 69.0, 730.3000000119209)
-[28Jul2025 00:13:25.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[28Jul2025 00:13:35.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4638ms or 92 ticks behind
-[28Jul2025 00:45:19.608] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[28Jul2025 00:45:55.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[28Jul2025 00:46:20.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[28Jul2025 00:47:11.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[28Jul2025 00:47:59.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[28Jul2025 00:48:48.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[28Jul2025 00:55:08.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[28Jul2025 00:55:47.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[28Jul2025 00:56:22.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[28Jul2025 00:56:27.019] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom-200 below top]
-[28Jul2025 01:01:43.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -8.977127447676594,-0.3499999999999801,5.820131272886101
-[28Jul2025 01:10:45.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2213ms or 44 ticks behind
-[28Jul2025 01:52:35.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[28Jul2025 01:52:35.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[28Jul2025 01:57:26.215] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6485fa6d
-[28Jul2025 01:57:26.221] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:45591] logged in with entity id 71589 at (400.250556229406, 85.0, 831.9975110516033)
-[28Jul2025 01:57:26.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
-[28Jul2025 01:57:27.102] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 01:58:47.400] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 01:59:04.750] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 01:59:24.100] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 02:00:28.951] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 02:15:14.800] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 02:15:23.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
-[28Jul2025 02:15:23.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
-[28Jul2025 02:19:28.410] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@51577859
-[28Jul2025 02:19:28.415] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:36039] logged in with entity id 86227 at (2746.6875, 62.07326432466507, -97.6875)
-[28Jul2025 02:19:28.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
-[28Jul2025 02:20:00.227] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 02:20:19.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
-[28Jul2025 02:20:19.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
-[28Jul2025 02:21:53.710] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2e8ce59e
-[28Jul2025 02:21:53.715] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:39527] logged in with entity id 87108 at (2699.6979858506957, 63.0, -91.93244364804993)
-[28Jul2025 02:21:53.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
-[28Jul2025 02:22:34.750] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 02:28:59.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ninouzumaki) moved wrongly! 0.28070088230435886
-[28Jul2025 02:28:59.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ninouzumaki) moved wrongly! 0.8513324945975
-[28Jul2025 02:28:59.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ninouzumaki) moved wrongly! 0.5145138782036156
-[28Jul2025 02:28:59.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ninouzumaki) moved wrongly! 0.49589127491447016
-[28Jul2025 02:29:01.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
-[28Jul2025 02:29:01.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
-[28Jul2025 02:32:36.961] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3c835e82
-[28Jul2025 02:32:36.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:36583] logged in with entity id 91452 at (2989.699999988079, 62.0, -590.8340100509031)
-[28Jul2025 02:32:36.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
-[28Jul2025 02:36:10.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
-[28Jul2025 02:36:10.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
-[28Jul2025 02:38:13.711] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1429ffd4
-[28Jul2025 02:38:13.716] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:36437] logged in with entity id 93541 at (3213.2861250646897, 63.0, -314.4509117091271)
-[28Jul2025 02:38:13.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
-[28Jul2025 02:38:20.615] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4ce73134
-[28Jul2025 02:38:20.620] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:47027] logged in with entity id 93899 at (1340.5515581243192, 48.0, 727.3000000119209)
-[28Jul2025 02:38:20.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[28Jul2025 02:38:27.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki moved too quickly! 9.162884315489919,-1.1767592750642422,4.1646407967551795
-[28Jul2025 02:38:27.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3424ms or 68 ticks behind
-[28Jul2025 02:41:00.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [We Need to Go Deeper]
-[28Jul2025 02:41:58.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
-[28Jul2025 02:41:58.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
-[28Jul2025 02:41:58.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6784ms or 135 ticks behind
-[28Jul2025 02:42:02.343] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@21f72ac1
-[28Jul2025 02:42:02.348] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:39981] logged in with entity id 96541 at (3395.7649017721374, 65.0, -228.54912794089194)
-[28Jul2025 02:42:02.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
-[28Jul2025 02:46:52.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by DiamondKingX
-[28Jul2025 02:53:09.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by DiamondKingX
-[28Jul2025 02:58:01.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by DiamondKingX
-[28Jul2025 02:58:02.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki has made the advancement [We Need to Go Deeper]
-[28Jul2025 02:58:33.200] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 02:59:15.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
-[28Jul2025 02:59:15.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
-[28Jul2025 03:01:26.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to PredatorX_2000: lo puedes ver?
-[28Jul2025 03:01:53.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to PredatorX_2000: la granjan de hierron donde lo hacemos
-[28Jul2025 03:02:06.275] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@41ae544
-[28Jul2025 03:02:06.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:41459] logged in with entity id 109075 at (2455.695982142078, 13.5, 7432.844794245326)
-[28Jul2025 03:02:06.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
-[28Jul2025 03:08:28.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by DiamondKingX
-[28Jul2025 03:11:02.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki has made the advancement [Fetch Me Their Souls!]
-[28Jul2025 03:12:17.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki has made the advancement [Straddle My Ol' Saddle]
-[28Jul2025 03:14:30.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
-[28Jul2025 03:14:30.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
-[28Jul2025 03:14:45.326] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@11cc5dee
-[28Jul2025 03:14:45.330] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:40375] logged in with entity id 122053 at (-730.0950055145591, 28.505496224761128, 98.71012172180913)
-[28Jul2025 03:14:45.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
-[28Jul2025 03:14:49.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
-[28Jul2025 03:14:49.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
-[28Jul2025 03:14:54.275] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@85a9b99
-[28Jul2025 03:14:54.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:60419] logged in with entity id 122452 at (-729.8177009917032, 29.35049374457461, 97.41221424207534)
-[28Jul2025 03:14:54.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
-[28Jul2025 03:15:10.200] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 03:15:24.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
-[28Jul2025 03:15:24.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
-[28Jul2025 03:16:07.580] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@27d6cd93
-[28Jul2025 03:16:07.584] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:44075] logged in with entity id 123832 at (-732.5145433602413, 36.0, 90.44726871582215)
-[28Jul2025 03:16:07.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
-[28Jul2025 03:18:07.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki has made the advancement [A Terrible Fortress]
-[28Jul2025 03:18:10.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2417ms or 48 ticks behind
-[28Jul2025 03:18:29.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki has made the advancement [Into Fire]
-[28Jul2025 03:18:30.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
-[28Jul2025 03:18:30.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
-[28Jul2025 03:18:42.008] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2d71724b
-[28Jul2025 03:18:42.012] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:37939] logged in with entity id 126724 at (-739.5802933323016, 60.0, 154.71194993197872)
-[28Jul2025 03:18:42.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
-[28Jul2025 03:25:06.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Beeswax Ninja]
-[28Jul2025 03:26:09.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[28Jul2025 03:26:27.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[28Jul2025 03:26:47.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[28Jul2025 03:27:17.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[28Jul2025 03:30:31.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[28Jul2025 03:31:11.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[28Jul2025 03:31:32.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[28Jul2025 03:43:34.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[28Jul2025 03:44:00.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[28Jul2025 03:44:19.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[28Jul2025 03:44:37.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[28Jul2025 03:44:52.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki has made the advancement [Nightmare Fuel]
-[28Jul2025 03:45:16.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
-[28Jul2025 03:45:16.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
-[28Jul2025 03:45:17.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[28Jul2025 03:48:00.652] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@209af4c2
-[28Jul2025 03:48:00.656] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:53425] logged in with entity id 142196 at (-132.95956730816027, 42.0, 367.1624951201057)
-[28Jul2025 03:48:00.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
-[28Jul2025 03:51:44.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[28Jul2025 03:52:01.273] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[28Jul2025 03:52:01.380] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[28Jul2025 03:52:01.487] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[28Jul2025 03:52:01.595] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[28Jul2025 03:52:01.700] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[28Jul2025 03:52:01.805] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[28Jul2025 03:52:01.904] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[28Jul2025 03:52:11.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[28Jul2025 03:52:42.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Fishy Business]
-[28Jul2025 03:52:42.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[28Jul2025 03:53:13.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[28Jul2025 03:53:56.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[28Jul2025 03:54:13.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
-[28Jul2025 03:54:31.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[28Jul2025 03:54:49.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3379ms or 67 ticks behind
-[28Jul2025 03:55:27.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[28Jul2025 03:56:39.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki has completed the challenge [Hot Tourist Destinations]
-[28Jul2025 03:57:16.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[28Jul2025 03:57:53.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Best Friends Forever]
-[28Jul2025 03:59:12.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has reached the goal [Half a flight]
-[28Jul2025 04:01:28.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki has made the advancement [Oh Shiny]
-[28Jul2025 04:02:06.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki has made the advancement [Who is Cutting Onions?]
-[28Jul2025 04:05:11.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Ant Farm]
-[28Jul2025 04:05:48.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Like a Truffle, with more Ant]
-[28Jul2025 04:06:55.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
-[28Jul2025 04:06:55.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
-[28Jul2025 04:07:01.490] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7d7773a3
-[28Jul2025 04:07:01.495] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:56559] logged in with entity id 150651 at (143.2729935134354, 24.017451671885215, -14.399900911985386)
-[28Jul2025 04:07:01.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
-[28Jul2025 04:28:12.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by Iron Golem
-[28Jul2025 04:28:45.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki has made the advancement [Pic-A-Nic Basket?]
-[28Jul2025 04:29:53.048] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3097, y=38, z=617} but found not block entity block Block{minecraft:water}[level=0] at location
-[28Jul2025 04:29:53.049] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=3097, y=38, z=617}
-[28Jul2025 04:38:06.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
-[28Jul2025 04:38:06.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
-[28Jul2025 04:39:02.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -10.653279951374316,-3.797000265299417,6.065016154120258
-[28Jul2025 04:39:05.676] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
-[28Jul2025 04:39:05.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
-[28Jul2025 04:39:10.880] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@53c48300
-[28Jul2025 04:39:10.885] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:44995] logged in with entity id 168567 at (3363.221258298542, 66.49520087700593, -80.0848796185888)
-[28Jul2025 04:39:10.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
-[28Jul2025 04:39:15.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
-[28Jul2025 04:39:15.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
-[28Jul2025 04:41:06.322] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@755e34de
-[28Jul2025 04:41:06.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:54951] logged in with entity id 169060 at (1017.837633468031, 106.54975981463959, 769.503408193646)
-[28Jul2025 04:41:06.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
-[28Jul2025 04:41:45.326] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6c52af28
-[28Jul2025 04:41:45.331] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:41777] logged in with entity id 169832 at (3361.4855678086205, 64.65672518684985, -83.22409468269865)
-[28Jul2025 04:41:45.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
-[28Jul2025 04:42:09.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki drowned
-[28Jul2025 04:42:16.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki drowned
-[28Jul2025 04:44:32.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was incinerated by Fire Dragon
-[28Jul2025 04:45:32.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was incinerated by Fire Dragon
-[28Jul2025 04:54:57.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! 8.489652089559513,-5.252203340253729,-1.4031007940966447
-[28Jul2025 05:04:30.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki moved too quickly! 0.43484410734117773,-10.332932755424089,0.4157775444605818
-[28Jul2025 05:05:05.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ninouzumaki> [server] Stevens broka
-[28Jul2025 05:05:07.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> putas todos
-[28Jul2025 05:07:23.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[28Jul2025 05:08:39.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ninouzumaki> afk
-[28Jul2025 05:09:44.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[28Jul2025 05:10:02.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2450ms or 49 ticks behind
-[28Jul2025 05:10:25.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[28Jul2025 05:10:42.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2315ms or 46 ticks behind
-[28Jul2025 05:11:02.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4621ms or 92 ticks behind
-[28Jul2025 05:11:06.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2609, y=55, z=7510} BlockPos{x=2609, y=56, z=7510}
-[28Jul2025 05:11:06.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2609, y=55, z=7510} BlockPos{x=2609, y=56, z=7510}
-[28Jul2025 05:11:08.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2611, y=56, z=7513} BlockPos{x=2612, y=53, z=7513}
-[28Jul2025 05:11:21.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4222ms or 84 ticks behind
-[28Jul2025 05:11:40.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4030ms or 80 ticks behind
-[28Jul2025 05:11:46.332] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/199874, l='ServerLevel[world]', x=2598.50, y=50.00, z=7547.50]
-[28Jul2025 05:11:58.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2824ms or 56 ticks behind
-[28Jul2025 05:18:02.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki moved too quickly! 10.053018055686152,1.7722207479599632,0.9312292905393065
-[28Jul2025 05:18:12.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Kicked by an operator
-[28Jul2025 05:18:12.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
-[28Jul2025 05:18:12.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kicked ninouzumaki: Kicked by an operator
-[28Jul2025 05:18:12.988] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[28Jul2025 05:18:20.781] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3e0474e8
-[28Jul2025 05:18:20.785] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:58581] logged in with entity id 206738 at (3383.0149412096407, 76.02442408821369, -241.92888104897563)
-[28Jul2025 05:18:20.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
-[28Jul2025 05:22:13.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[28Jul2025 05:30:26.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by Iron Golem
-[28Jul2025 05:31:06.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by Iron Golem
-[28Jul2025 05:32:02.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was slain by Iron Golem
-[28Jul2025 05:36:42.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was turned into KFC by Fire Dragon
-[28Jul2025 05:36:52.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was incinerated by Fire Dragon
-[28Jul2025 05:36:52.436] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ninouzumaki with unique ID travelersbackpack.bookshelf_28.07.2025-05.36.52.dat
-[28Jul2025 05:36:52.436] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3328 Y: 74 Z: 53
-[28Jul2025 05:36:58.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has reached the goal [Plate Armor]
-[28Jul2025 05:37:10.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was incinerated by Fire Dragon
-[28Jul2025 05:37:16.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was turned into KFC by Fire Dragon
-[28Jul2025 05:37:38.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3325, y=73, z=64}
-[28Jul2025 05:37:43.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was slain by Fire Dragon
-[28Jul2025 05:37:49.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was slain by Fire Dragon
-[28Jul2025 05:38:16.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was slain by Fire Dragon
-[28Jul2025 05:38:22.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was slain by Fire Dragon
-[28Jul2025 05:38:44.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was slain by Ancient Spirit
-[28Jul2025 05:38:50.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was slain by Ancient Spirit
-[28Jul2025 05:39:44.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was doomed to fall by Fire Dragon
-[28Jul2025 05:39:50.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was doomed to fall by Fire Dragon
-[28Jul2025 05:40:07.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was slain by Fire Dragon
-[28Jul2025 05:40:11.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki walked into fire whilst fighting Fire Dragon
-[28Jul2025 05:40:42.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was doomed to fall by Fire Dragon
-[28Jul2025 05:40:48.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was doomed to fall by Fire Dragon
-[28Jul2025 05:40:59.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was slain by Fire Dragon
-[28Jul2025 05:41:05.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was slain by Fire Dragon
-[28Jul2025 05:41:18.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was turned into KFC by Fire Dragon
-[28Jul2025 05:41:23.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki walked into fire whilst fighting Fire Dragon
-[28Jul2025 05:41:37.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was slain by Fire Dragon
-[28Jul2025 05:41:42.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was slain by Fire Dragon
-[28Jul2025 05:41:53.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was turned into KFC by Fire Dragon
-[28Jul2025 05:41:59.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was incinerated by Fire Dragon
-[28Jul2025 05:42:09.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by Iron Golem
-[28Jul2025 05:42:11.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was turned into KFC by Fire Dragon
-[28Jul2025 05:42:17.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was incinerated by Fire Dragon
-[28Jul2025 05:42:28.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was slain by Fire Dragon
-[28Jul2025 05:42:34.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was slain by Fire Dragon
-[28Jul2025 05:42:42.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was slain by Fire Dragon
-[28Jul2025 05:42:48.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was slain by Fire Dragon
-[28Jul2025 05:42:52.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by Iron Golem
-[28Jul2025 05:42:57.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was slain by Fire Dragon
-[28Jul2025 05:42:57.859] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:57.860] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:57.905] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:57.905] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:57.950] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:57.951] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:57.989] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:57.990] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.030] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.030] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.068] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.069] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.115] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.116] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.160] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.160] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.195] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.196] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.232] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.232] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.268] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.268] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.311] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.311] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.351] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.351] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.386] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.387] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.429] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.429] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.472] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.472] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.507] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.508] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.552] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.553] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.604] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.605] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.652] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.652] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.690] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.690] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.724] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.724] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.763] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.764] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.798] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.798] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.830] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.830] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.863] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.863] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.898] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.898] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.940] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.940] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:58.976] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:58.976] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:59.008] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:59.008] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:59.045] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:59.045] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:59.077] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:59.078] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:59.107] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:59.107] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:59.140] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:59.141] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:59.172] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:59.172] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:59.204] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:59.204] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:59.242] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:59.242] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:59.277] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:59.277] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:59.309] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:59.309] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:42:59.347] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223363, l='ServerLevel[world]', x=1007.56, y=82.02, z=898.45]
-[28Jul2025 05:42:59.348] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/223364, l='ServerLevel[world]', x=1006.28, y=81.73, z=898.78]
-[28Jul2025 05:43:03.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was slain by Fire Dragon
-[28Jul2025 05:43:17.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was slain by Fire Dragon
-[28Jul2025 05:43:23.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was slain by Fire Dragon
-[28Jul2025 05:43:31.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was slain by Fire Dragon
-[28Jul2025 05:43:37.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was slain by Fire Dragon
-[28Jul2025 05:44:45.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by Iron Golem
-[28Jul2025 05:45:56.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was incinerated by Fire Dragon
-[28Jul2025 05:46:06.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was burnt to a crisp whilst fighting Fire Dragon
-[28Jul2025 05:47:52.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported ninouzumaki to 3598.500000, 86.000000, -460.500000
-[28Jul2025 05:51:10.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
-[28Jul2025 05:51:10.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
-[28Jul2025 05:55:36.737] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 05:57:17.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was struck with lightning by Lightning Dragon
-[28Jul2025 05:57:19.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! 10.148819580247164,-2.8821110074559613,3.6824014610468794
-[28Jul2025 05:58:17.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX was energized by Lightning Dragon
-[28Jul2025 05:58:17.417] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DiamondKingX with unique ID travelersbackpack.magma_cube_28.07.2025-05.58.17.dat
-[28Jul2025 05:58:17.418] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1130 Y: 79 Z: 692
-[28Jul2025 06:03:36.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=198, y=69, z=99} BlockPos{x=197, y=68, z=99}
-[28Jul2025 06:04:54.500] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 06:05:48.351] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 06:46:14.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[28Jul2025 06:46:14.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[28Jul2025 06:46:19.820] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@69622ee5
-[28Jul2025 06:46:19.824] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:54407] logged in with entity id 254842 at (1345.1708125057485, 46.875, 720.4209135239876)
-[28Jul2025 06:46:19.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[28Jul2025 06:47:01.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Splintering II]
-[28Jul2025 06:51:54.216] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/254947, l='ServerLevel[world]', x=1371.41, y=46.00, z=731.60] died, message: 'Villager was burnt to a crisp whilst fighting PredatorX_2000'
-[28Jul2025 06:51:59.918] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/254948, l='ServerLevel[world]', x=1369.81, y=46.00, z=731.72] died, message: 'Villager was burnt to a crisp whilst fighting PredatorX_2000'
-[28Jul2025 06:52:21.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [A Flaming Sword]
-[28Jul2025 06:53:06.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Surge Protector]
-[28Jul2025 06:54:44.621] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 06:54:44.802] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 06:54:44.803] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 06:56:13.832] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 06:56:13.832] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 06:57:58.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to PredatorX_2000
-[28Jul2025 07:00:43.209] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:00:43.210] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:00:43.902] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:02:45.350] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:03:00.049] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:03:21.200] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:03:40.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [The Only Good Bug...]
-[28Jul2025 07:04:06.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was struck by lightning whilst fighting Myrmex Soldier
-[28Jul2025 07:04:11.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 was struck by lightning whilst fighting Myrmex Soldier
-[28Jul2025 07:04:11.863] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PredatorX_2000 with unique ID travelersbackpack.bookshelf_28.07.2025-07.04.11.dat
-[28Jul2025 07:04:11.863] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1750 Y: 94 Z: 1519
-[28Jul2025 07:04:17.901] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:04:44.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
-[28Jul2025 07:04:44.385] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:04:45.300] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:04:45.300] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:04:57.549] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:04:57.550] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:06:25.900] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:07:57.800] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:08:22.400] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:08:44.851] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:09:24.301] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:09:51.902] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:11:12.001] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:11:12.001] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:11:45.452] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:11:45.452] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:11:56.452] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:12:17.150] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:12:32.496] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:12:34.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -1.808902059573029,-0.2951740133402154,10.27155414443314
-[28Jul2025 07:14:16.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [We do a little trolling...]
-[28Jul2025 07:14:23.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [We do a little trolling...]
-[28Jul2025 07:14:52.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [It's an Emu!!!]
-[28Jul2025 07:15:05.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [It's an Emu!!!]
-[28Jul2025 07:18:53.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved wrongly!
-[28Jul2025 07:23:29.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was energized by Lightning Dragon
-[28Jul2025 07:23:42.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was slain by Lightning Dragon
-[28Jul2025 07:23:53.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to PredatorX_2000
-[28Jul2025 07:24:20.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 was struck with lightning by Lightning Dragon
-[28Jul2025 07:24:20.148] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PredatorX_2000 with unique ID travelersbackpack.bookshelf_28.07.2025-07.24.20.dat
-[28Jul2025 07:24:20.148] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1454 Y: 65 Z: 2158
-[28Jul2025 07:24:26.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
-[28Jul2025 07:25:12.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[28Jul2025 07:25:12.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[28Jul2025 07:25:14.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was struck with lightning by Lightning Dragon
-[28Jul2025 07:25:39.661] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5aba5a3c
-[28Jul2025 07:25:39.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:37451] logged in with entity id 272778 at (1454.5619054563745, 71.0, 2163.089636289339)
-[28Jul2025 07:25:39.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[28Jul2025 07:25:43.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
-[28Jul2025 07:27:10.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[28Jul2025 07:27:10.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[28Jul2025 07:27:34.269] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@11a72eee
-[28Jul2025 07:27:34.274] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:39047] logged in with entity id 273546 at (1442.300000011921, 74.0, 2082.5177596094477)
-[28Jul2025 07:27:34.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[28Jul2025 07:27:55.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was energized by Lightning Dragon
-[28Jul2025 07:28:03.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[28Jul2025 07:28:03.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[28Jul2025 07:28:22.709] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@190c95df
-[28Jul2025 07:28:22.713] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:36219] logged in with entity id 273800 at (1457.53277606093, 71.0, 2087.0797744045885)
-[28Jul2025 07:28:22.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[28Jul2025 07:28:30.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[28Jul2025 07:28:30.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[28Jul2025 07:28:31.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No entity was found
-[28Jul2025 07:28:39.666] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6e52aa99
-[28Jul2025 07:28:39.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:38441] logged in with entity id 273947 at (1455.6697231611836, 71.0, 2086.506256519251)
-[28Jul2025 07:28:39.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[28Jul2025 07:28:40.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
-[28Jul2025 07:29:59.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was struck with lightning by Lightning Dragon
-[28Jul2025 07:30:08.208] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[28Jul2025 07:30:08.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[28Jul2025 07:30:34.211] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1f702ddf
-[28Jul2025 07:30:34.214] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:40045] logged in with entity id 274643 at (1411.699999988079, 84.0, 1967.3716554531138)
-[28Jul2025 07:30:34.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[28Jul2025 07:30:37.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
-[28Jul2025 07:30:49.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was slain by Ancient Spirit
-[28Jul2025 07:30:55.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was energized by Lightning Dragon
-[28Jul2025 07:31:08.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 was energized by Lightning Dragon
-[28Jul2025 07:31:08.611] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PredatorX_2000 with unique ID travelersbackpack.bookshelf_28.07.2025-07.31.08.dat
-[28Jul2025 07:31:08.611] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1349 Y: 67 Z: 2028
-[28Jul2025 07:31:13.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
-[28Jul2025 07:31:19.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by Ancient Spirit
-[28Jul2025 07:31:27.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 was slain by Ancient Spirit
-[28Jul2025 07:31:32.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
-[28Jul2025 07:32:19.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Creative Mode
-[28Jul2025 07:38:36.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to PredatorX_2000
-[28Jul2025 07:42:40.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
-[28Jul2025 07:42:55.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Survival Mode
-[28Jul2025 07:51:12.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [This Must be a Sign!]
-[28Jul2025 07:54:07.501] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:54:30.901] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:56:10.160] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:56:10.161] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:59:04.502] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:59:42.901] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:59:44.950] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 07:59:49.500] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:00:00.152] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:00:55.050] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:01:15.500] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:01:29.901] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:02:15.954] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:02:39.200] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:02:55.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Sea? Not a Problem]
-[28Jul2025 08:02:58.050] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:02:58.050] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:03:28.901] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:03:34.451] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:03:34.451] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:03:45.750] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:03:47.202] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:03:47.203] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:03:54.502] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:04:04.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set the time to 1000
-[28Jul2025 08:04:57.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Timed out
-[28Jul2025 08:04:57.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
-[28Jul2025 08:06:51.650] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:07:00.400] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:07:29.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[28Jul2025 08:07:29.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[28Jul2025 08:08:30.606] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@76abe2f3
-[28Jul2025 08:08:30.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:59743] logged in with entity id 291967 at (3447.601462444357, 66.00133597911214, 3274.089202988598)
-[28Jul2025 08:08:30.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
-[28Jul2025 08:08:31.302] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:09:01.150] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:09:35.350] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:09:35.351] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:09:48.156] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[28Jul2025 08:09:59.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
-[28Jul2025 08:09:59.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
-[28Jul2025 08:10:10.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[28Jul2025 08:10:10.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[28Jul2025 08:10:10.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[28Jul2025 08:10:10.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[28Jul2025 08:10:11.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[28Jul2025 08:10:11.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
-[28Jul2025 08:10:11.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[28Jul2025 08:10:11.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/panthalassa:panthalassa
-[28Jul2025 08:10:11.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/peru_mod:hanan
-[28Jul2025 08:10:11.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[28Jul2025 08:10:11.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
-[28Jul2025 08:10:11.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[28Jul2025 08:10:11.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
-[28Jul2025 08:10:11.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[28Jul2025 08:10:11.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (panthalassa): All chunks are saved
-[28Jul2025 08:10:11.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (hanan): All chunks are saved
-[28Jul2025 08:10:11.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[28Jul2025 08:10:11.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
-[28Jul2025 08:10:11.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Jul2025 09:16:03.255] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[28Jul2025 09:16:03.259] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.15 by Ubuntu
+[28Jul2025 09:16:03.530] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/legendary-pancake/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[28Jul2025 09:16:03.948] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/legendary-pancake/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[28Jul2025 09:16:03.949] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/legendary-pancake/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[28Jul2025 09:16:03.951] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/legendary-pancake/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[28Jul2025 09:16:03.952] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/legendary-pancake/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[28Jul2025 09:16:04.296] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[28Jul2025 09:16:06.169] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[28Jul2025 09:16:06.278] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[28Jul2025 09:16:06.282] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[28Jul2025 09:16:06.292] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jul2025 09:16:07.459] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[28Jul2025 09:16:16.323] [modloading-worker-0/INFO] [thedragonlib/]: Welcoming Minecraft
+[28Jul2025 09:16:16.632] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+[28Jul2025 09:16:16.634] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
+[28Jul2025 09:16:23.665] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
+[28Jul2025 09:16:24.412] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[28Jul2025 09:16:24.413] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[28Jul2025 09:16:25.449] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+[28Jul2025 09:16:25.450] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+[28Jul2025 09:16:25.453] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedSkeleton
+[28Jul2025 09:16:25.453] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedSpider
+[28Jul2025 09:16:25.454] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedCreeper
+[28Jul2025 09:16:26.735] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[28Jul2025 09:16:27.417] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 7.1.49 Target: null
+[28Jul2025 09:16:27.430] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Starting version check at https://raw.githubusercontent.com/nonamecrackers2/cwsm-update-info/main/update_checker.json
+[28Jul2025 09:16:27.493] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Found status: UP_TO_DATE Current: 2.2.1 Target: null
+[28Jul2025 09:16:27.493] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thedragonlib] Starting version check at https://raw.githubusercontent.com/sokratis12GR/TheDragonLib/1.18/thedragonlib-updater.json
+[28Jul2025 09:16:27.498] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[28Jul2025 09:16:27.499] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[28Jul2025 09:16:27.500] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[28Jul2025 09:16:27.500] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[28Jul2025 09:16:27.500] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[28Jul2025 09:16:27.500] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[28Jul2025 09:16:27.500] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[28Jul2025 09:16:27.500] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[28Jul2025 09:16:27.599] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thedragonlib] Found status: BETA Current: 1.18.1-1.0.0 Target: null
+[28Jul2025 09:16:27.599] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[28Jul2025 09:16:27.725] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[28Jul2025 09:16:27.726] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[28Jul2025 09:16:27.727] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[28Jul2025 09:16:27.727] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[28Jul2025 09:16:27.728] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of tconstruct:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 4
+[28Jul2025 09:16:27.854] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
+[28Jul2025 09:16:27.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [armorplus] Starting version check at https://sokratis.space/armorplus/1.18/update.json
+[28Jul2025 09:16:27.959] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 95 ms
+[28Jul2025 09:16:27.982] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [armorplus] Found status: UP_TO_DATE Current: 1.18.2-18.3.0 Target: null
+[28Jul2025 09:16:31.455] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[28Jul2025 09:16:34.158] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/legendary-pancake/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2366!/assets/.mcassetsroot' uses unexpected schema
+[28Jul2025 09:16:34.159] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/legendary-pancake/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2366!/data/.mcassetsroot' uses unexpected schema
+[28Jul2025 09:16:41.563] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 68 ms
+[28Jul2025 09:16:45.713] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[28Jul2025 09:16:45.719] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[28Jul2025 09:16:45.727] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[28Jul2025 09:16:45.731] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[28Jul2025 09:16:45.732] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[28Jul2025 09:16:45.740] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
+[28Jul2025 09:16:45.748] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
+[28Jul2025 09:16:45.760] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, cluster, create, start] and [witherstormmod, cluster, create, pos] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
+[28Jul2025 09:16:45.761] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, cluster, create, pos] and [witherstormmod, cluster, create, start] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
+[28Jul2025 09:16:45.765] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, bowels, new] and [witherstormmod, bowels, entity] with inputs: [new]
+[28Jul2025 09:16:45.770] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, ultimateTarget, set, storm, pos] and [witherstormmod, ultimateTarget, set, storm, player] with inputs: [0 0 0]
+[28Jul2025 09:16:53.289] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
+[28Jul2025 09:16:53.299] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:brass_lantern as it's serializer returned null
+[28Jul2025 09:16:53.316] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_lantern as it's serializer returned null
+[28Jul2025 09:16:53.328] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_trapdoor as it's serializer returned null
+[28Jul2025 09:16:53.328] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[28Jul2025 09:16:53.385] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[28Jul2025 09:16:53.390] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_door as it's serializer returned null
+[28Jul2025 09:16:53.449] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[28Jul2025 09:16:53.483] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb_2 as it's serializer returned null
+[28Jul2025 09:16:53.486] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe peru_mod:shielder
+com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:155) ~[forge-1.18.2-40.2.21-universal.jar%2371!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:181) ~[forge-1.18.2-40.2.21-universal.jar%2371!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:270) ~[server-1.18.2-20220404.173914-srg.jar%2366!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:87) ~[server-1.18.2-20220404.173914-srg.jar%2366!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:77) ~[server-1.18.2-20220404.173914-srg.jar%2366!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.18.2-40.2.21-universal.jar%2371!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:157) ~[server-1.18.2-20220404.173914-srg.jar%2366!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.18.2-20220404.173914-srg.jar%2366!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.18.2-20220404.173914-srg.jar%2366!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2366!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2366!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2366!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2366!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2366!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2366!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2366!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:51) ~[server-1.18.2-20220404.173914-srg.jar%2366!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:48) ~[server-1.18.2-20220404.173914-srg.jar%2366!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[28Jul2025 09:16:53.528] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
+[28Jul2025 09:16:55.334] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2343 advancements
+[28Jul2025 09:16:55.340] [Worker-Main-4/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 23 dynamic modifiers in 1.151596 ms
+[28Jul2025 09:16:55.470] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 68 dynamic modifiers and 15 modifier redirects in 13.95497 ms
+[28Jul2025 09:16:55.534] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 5 modifier tags for 20 modifiers in 64.040306 ms
+[28Jul2025 09:16:55.534] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 49 enchantment to modifier mappings in 0.642797 ms
+[28Jul2025 09:16:55.540] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.modifiers.spilling.SpillingFluidManager/]: Loaded 48 spilling fluids in 5.213466 ms
+[28Jul2025 09:16:55.568] [Worker-Main-4/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 97 Soft Fluids
+[28Jul2025 09:16:55.585] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 48 materials in 9.192792 ms
+[28Jul2025 09:16:55.645] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 20 materials in 60.34547 ms
+[28Jul2025 09:16:55.779] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 196 stats loaded for 65 materials in 133.7511 ms
+[28Jul2025 09:16:55.903] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 86 traits loaded for 65 materials in 123.3352 ms
+[28Jul2025 09:16:55.917] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 33 tool definitions in 13.902129 ms
+[28Jul2025 09:16:55.925] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 18 station slot layouts in 7.08277 ms
+[28Jul2025 09:16:57.911] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
+[28Jul2025 09:16:58.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[28Jul2025 09:16:58.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[28Jul2025 09:16:58.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[28Jul2025 09:16:58.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[28Jul2025 09:16:58.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[28Jul2025 09:16:58.777] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[28Jul2025 09:16:58.886] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[28Jul2025 09:16:58.890] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[28Jul2025 09:16:58.890] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[28Jul2025 09:16:58.890] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[28Jul2025 09:16:59.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[28Jul2025 09:16:59.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[28Jul2025 09:17:02.757] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 09:17:02.777] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 09:17:02.784] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 09:17:02.791] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 09:17:02.800] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 09:17:03.229] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 09:17:03.247] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 09:17:03.393] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 09:17:04.404] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 09:17:04.408] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 09:17:04.890] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 09:17:05.392] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 09:17:05.888] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 09:17:06.394] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 09:17:06.890] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 09:17:07.442] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 09:17:07.887] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 09:17:08.391] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 09:17:08.927] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[28Jul2025 09:17:09.388] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
+[28Jul2025 09:17:09.887] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[28Jul2025 09:17:10.489] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[28Jul2025 09:17:10.887] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[28Jul2025 09:17:11.980] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[28Jul2025 09:17:11.988] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[28Jul2025 09:17:12.393] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[28Jul2025 09:17:12.944] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 98%
+[28Jul2025 09:17:13.800] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 13915 ms
+[28Jul2025 09:17:13.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.892s)! For help, type "help"
+[28Jul2025 09:17:13.909] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[28Jul2025 09:17:13.911] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=true, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, ICE_DRAGON_CAVE_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[28Jul2025 09:17:13.912] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=false, TROLL_F=true}
+[28Jul2025 09:17:13.914] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[28Jul2025 09:17:25.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[28Jul2025 09:17:25.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Jul2025 09:17:25.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Jul2025 09:17:25.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Jul2025 09:17:28.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Jul2025 09:17:28.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/peru_mod:hanan
+[28Jul2025 09:17:28.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[28Jul2025 09:17:28.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[28Jul2025 09:17:28.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Jul2025 09:17:28.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/panthalassa:panthalassa
+[28Jul2025 09:17:28.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Jul2025 09:17:28.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Jul2025 09:17:28.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (hanan): All chunks are saved
+[28Jul2025 09:17:28.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[28Jul2025 09:17:28.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[28Jul2025 09:17:28.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Jul2025 09:17:28.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (panthalassa): All chunks are saved
+[28Jul2025 09:17:28.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Jul2025 09:17:28.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
