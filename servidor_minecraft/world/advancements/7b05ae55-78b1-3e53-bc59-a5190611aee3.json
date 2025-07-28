@@ -942,6 +942,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/common/materials/raw_cobalt_block_from_raws": {
+    "criteria": {
+      "has_item": "2025-07-28 06:03:08 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_bow_base_alt": {
     "criteria": {
       "has_req": "2025-07-20 02:53:42 +0000"
@@ -1734,7 +1740,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-07-28 02:48:59 +0000",
-      "minecraft:nether_wastes": "2025-07-28 02:41:01 +0000"
+      "minecraft:nether_wastes": "2025-07-28 02:41:01 +0000",
+      "minecraft:warped_forest": "2025-07-28 06:00:43 +0000"
     },
     "done": false
   },
@@ -2924,6 +2931,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/cobalt_ingot_smelting": {
+    "criteria": {
+      "has_item": "2025-07-28 06:03:08 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_minecraft/oak": {
     "criteria": {
       "has_plank": "2025-07-19 01:41:33 +0000"
@@ -3251,6 +3264,12 @@
   "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
       "bestiary": "2025-07-19 04:58:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/magma_cube_smithing": {
+    "criteria": {
+      "has_magma_cube": "2025-07-28 06:01:55 +0000"
     },
     "done": true
   },

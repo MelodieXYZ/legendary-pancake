@@ -345,3 +345,6 @@
 [28Jul2025 05:58:17.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX was energized by Lightning Dragon
 [28Jul2025 05:58:17.417] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DiamondKingX with unique ID travelersbackpack.magma_cube_28.07.2025-05.58.17.dat
 [28Jul2025 05:58:17.418] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1130 Y: 79 Z: 692
+[28Jul2025 06:03:36.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=198, y=69, z=99} BlockPos{x=197, y=68, z=99}
+[28Jul2025 06:04:54.500] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[28Jul2025 06:05:48.351] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
