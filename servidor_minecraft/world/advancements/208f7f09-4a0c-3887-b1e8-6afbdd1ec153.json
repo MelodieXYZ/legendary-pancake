@@ -485,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-28 05:14:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-07-20 20:17:37 +0000"
@@ -1317,6 +1323,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-07-19 04:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-28 05:14:49 +0000"
     },
     "done": true
   },
@@ -2791,6 +2803,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/common/slime/earth/crystal_block": {
+    "criteria": {
+      "has_item": "2025-07-28 05:15:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-07-19 03:13:25 +0000"
@@ -2944,6 +2962,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-20 20:18:46 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/grout": {
+    "criteria": {
+      "has_item": "2025-07-28 05:14:49 +0000"
     },
     "done": true
   },
@@ -3628,6 +3652,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/coal/coal_mace_alt": {
     "criteria": {
       "has_req": "2025-07-21 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/earth/crystal_smelting": {
+    "criteria": {
+      "has_crystal": "2025-07-28 05:15:21 +0000"
     },
     "done": true
   },

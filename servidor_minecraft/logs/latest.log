@@ -196,3 +196,14 @@
 [28Jul2025 05:11:06.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2609, y=55, z=7510} BlockPos{x=2609, y=56, z=7510}
 [28Jul2025 05:11:08.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2611, y=56, z=7513} BlockPos{x=2612, y=53, z=7513}
 [28Jul2025 05:11:21.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4222ms or 84 ticks behind
+[28Jul2025 05:11:40.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4030ms or 80 ticks behind
+[28Jul2025 05:11:46.332] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/199874, l='ServerLevel[world]', x=2598.50, y=50.00, z=7547.50]
+[28Jul2025 05:11:58.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2824ms or 56 ticks behind
+[28Jul2025 05:18:02.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki moved too quickly! 10.053018055686152,1.7722207479599632,0.9312292905393065
+[28Jul2025 05:18:12.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Kicked by an operator
+[28Jul2025 05:18:12.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
+[28Jul2025 05:18:12.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kicked ninouzumaki: Kicked by an operator
+[28Jul2025 05:18:12.988] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jul2025 05:18:20.781] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3e0474e8
+[28Jul2025 05:18:20.785] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:58581] logged in with entity id 206738 at (3383.0149412096407, 76.02442408821369, -241.92888104897563)
+[28Jul2025 05:18:20.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
