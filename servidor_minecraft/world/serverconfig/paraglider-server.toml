@@ -34,7 +34,7 @@ paragliderInTowersOfTheWild = "DEFAULT"
 	#Maximum amount of Heart Containers one player can consume.
 	#Do note that the maximum health point is capped at 1024 (512 hearts).
 	#Range: 0 ~ 512
-	maxHeartContainers = 20
+	maxHeartContainers = 30
 	#Maximum amount of stamina Player can get. Do note that one third of this value is equal to one stamina wheel.
 	#Range: > 0
 	maxStamina = 3000
