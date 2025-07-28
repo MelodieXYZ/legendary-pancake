@@ -3040,3 +3040,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [28Jul2025 23:27:28.892] [Server thread/DEBUG] [mixin/]: emotecraft-arch.mixins.json:ServerPlayTrackerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
 [28Jul2025 23:32:28.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jul2025 23:32:28.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 23:37:28.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 23:37:28.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 23:41:50.218] [Server thread/DEBUG] [mixin/]: Mixing common.ServerGamePacketListenerImplMixin from tacz.mixins.json into net.minecraft.server.network.ServerGamePacketListenerImpl
+[28Jul2025 23:41:50.219] [Server thread/DEBUG] [mixin/]: Mixing common.ServerPlayNetHandlerMixin from tacz.mixins.json into net.minecraft.server.network.ServerGamePacketListenerImpl
+[28Jul2025 23:41:50.220] [Server thread/DEBUG] [mixin/]: Mixing ServerPlayNetworkInstance from emotecraft.mixins.json into net.minecraft.server.network.ServerGamePacketListenerImpl
+[28Jul2025 23:41:50.220] [Server thread/DEBUG] [mixin/]: emotecraft.mixins.json:ServerPlayNetworkInstance: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[28Jul2025 23:41:50.220] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$presenceResponse$0(Lnet/minecraft/server/level/ServerPlayer;)V to md7ced92$lambda$presenceResponse$0$0 in emotecraft.mixins.json:ServerPlayNetworkInstance
+[28Jul2025 23:42:28.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 23:42:28.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
