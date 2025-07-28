@@ -8103,3 +8103,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [28Jul2025 07:32:19.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Creative Mode
 [28Jul2025 07:35:15.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jul2025 07:35:15.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 07:38:36.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to PredatorX_2000
+[28Jul2025 07:40:15.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 07:40:15.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 07:42:40.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
+[28Jul2025 07:42:55.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Survival Mode
+[28Jul2025 07:45:15.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 07:45:15.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
