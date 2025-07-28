@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/duct": {
+    "criteria": {
+      "has_item": "2025-07-28 05:32:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-07-19 03:12:12 +0000"
@@ -735,6 +741,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-07-19 03:25:19 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_boots": {
+    "criteria": {
+      "has_item": "2025-07-28 05:32:30 +0000"
     },
     "done": true
   },
@@ -1440,6 +1452,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/cobalt_block_from_ingots": {
+    "criteria": {
+      "has_item": "2025-07-28 05:32:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-07-22 18:54:25 +0000"
@@ -1820,6 +1838,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/duct": {
+    "criteria": {
+      "has_item": "2025-07-28 05:32:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-07-19 03:12:44 +0000"
@@ -2139,6 +2163,12 @@
   "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_sword_base": {
     "criteria": {
       "has_req": "2025-07-28 02:57:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-28 05:32:30 +0000"
     },
     "done": true
   },
@@ -2971,6 +3001,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_shield": {
+    "criteria": {
+      "has_item": "2025-07-28 05:32:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-19 03:25:05 +0000"
@@ -2992,6 +3028,12 @@
   "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_sword_base": {
     "criteria": {
       "has_req": "2025-07-28 02:57:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_helmet": {
+    "criteria": {
+      "has_item": "2025-07-28 05:32:30 +0000"
     },
     "done": true
   },
@@ -3319,6 +3361,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/cobalt_platform": {
+    "criteria": {
+      "has_bars": "2025-07-28 05:32:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_minecraft/oak": {
     "criteria": {
       "has_plank": "2025-07-19 03:13:38 +0000"
@@ -3430,6 +3478,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-07-19 05:21:13 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/cobalt_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-28 05:32:30 +0000"
     },
     "done": true
   },
@@ -3652,6 +3706,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/coal/coal_mace_alt": {
     "criteria": {
       "has_req": "2025-07-21 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_leggings": {
+    "criteria": {
+      "has_item": "2025-07-28 05:32:30 +0000"
     },
     "done": true
   },
