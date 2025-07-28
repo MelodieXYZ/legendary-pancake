@@ -6803,3 +6803,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [28Jul2025 04:49:46.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jul2025 04:49:46.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Jul2025 04:50:40.622] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1753678240622
+[28Jul2025 04:54:46.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 04:54:46.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 04:54:57.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! 8.489652089559513,-5.252203340253729,-1.4031007940966447
+[28Jul2025 04:55:02.404] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1753678502404
+[28Jul2025 04:55:54.808] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1753678554808
+[28Jul2025 04:59:41.037] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1753678781037
+[28Jul2025 04:59:46.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 04:59:46.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
