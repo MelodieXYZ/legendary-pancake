@@ -2547,6 +2547,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-07-28 06:47:01 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/netherite": {
     "criteria": {
       "has_netherite_ingot": "2025-07-22 18:05:08 +0000"
