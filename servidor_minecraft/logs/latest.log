@@ -207,3 +207,7 @@
 [28Jul2025 05:18:20.781] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3e0474e8
 [28Jul2025 05:18:20.785] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:58581] logged in with entity id 206738 at (3383.0149412096407, 76.02442408821369, -241.92888104897563)
 [28Jul2025 05:18:20.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
+[28Jul2025 05:22:13.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[28Jul2025 05:30:26.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by Iron Golem
+[28Jul2025 05:31:06.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by Iron Golem
+[28Jul2025 05:32:02.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was slain by Iron Golem
