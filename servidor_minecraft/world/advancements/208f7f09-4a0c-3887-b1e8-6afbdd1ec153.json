@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-07-28 03:34:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-07-19 03:25:19 +0000"
@@ -719,6 +725,7 @@
       "minecraft:blaze": "2025-07-28 03:18:28 +0000",
       "minecraft:skeleton": "2025-07-19 04:24:37 +0000",
       "minecraft:hoglin": "2025-07-28 03:08:17 +0000",
+      "minecraft:magma_cube": "2025-07-28 03:34:22 +0000",
       "minecraft:spider": "2025-07-20 20:53:20 +0000",
       "minecraft:witch": "2025-07-19 04:27:00 +0000",
       "minecraft:wither_skeleton": "2025-07-28 03:19:37 +0000",
@@ -1779,6 +1786,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-07-28 03:27:35 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_sword_base": {
     "criteria": {
       "has_req": "2025-07-28 02:57:50 +0000"
@@ -2388,6 +2401,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-07-19 03:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-07-28 03:34:32 +0000"
     },
     "done": true
   },
@@ -3576,6 +3595,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-20 21:25:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-07-28 03:34:32 +0000"
     },
     "done": true
   },

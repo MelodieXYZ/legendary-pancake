@@ -2539,6 +2539,12 @@
     },
     "done": true
   },
+  "the_bumblezone:the_bumblezone/combs_and_beeswax/comb_cutter_tool": {
+    "criteria": {
+      "comb_cutter_tool": "2025-07-28 03:25:06 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shaped/slayer/slayer_bow_base_alt": {
     "criteria": {
       "has_req": "2025-07-20 02:53:42 +0000"

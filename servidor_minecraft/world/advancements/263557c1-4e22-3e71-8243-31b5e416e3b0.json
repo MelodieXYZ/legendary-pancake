@@ -3904,6 +3904,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/bookshelf_smithing": {
+    "criteria": {
+      "has_bookshelf": "2025-07-28 03:34:55 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_boots": {
     "criteria": {
       "has_item": "2025-07-19 01:50:17 +0000"
@@ -4590,6 +4596,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-07-19 02:51:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/cake": {
+    "criteria": {
+      "has_egg": "2025-07-28 03:28:33 +0000"
     },
     "done": true
   },
