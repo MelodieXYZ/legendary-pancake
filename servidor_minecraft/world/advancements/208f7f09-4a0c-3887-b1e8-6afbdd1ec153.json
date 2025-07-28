@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_helmet_base": {
+    "criteria": {
+      "has_req": "2025-07-28 03:19:38 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/ender_dragon/ender_dragon_mace_alt": {
     "criteria": {
       "has_req": "2025-07-28 02:57:50 +0000"
@@ -338,6 +344,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-19 03:25:09 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tools/modifiers/wither_bone_conversion": {
+    "criteria": {
+      "has_bone": "2025-07-28 03:19:38 +0000"
     },
     "done": true
   },
@@ -709,6 +721,7 @@
       "minecraft:hoglin": "2025-07-28 03:08:17 +0000",
       "minecraft:spider": "2025-07-20 20:53:20 +0000",
       "minecraft:witch": "2025-07-19 04:27:00 +0000",
+      "minecraft:wither_skeleton": "2025-07-28 03:19:37 +0000",
       "minecraft:piglin": "2025-07-28 03:08:52 +0000",
       "minecraft:enderman": "2025-07-22 18:31:08 +0000",
       "minecraft:zombie": "2025-07-19 03:21:55 +0000",
@@ -1002,6 +1015,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/lapis/lapis_mace_alt": {
     "criteria": {
       "has_req": "2025-07-21 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_leggings_base": {
+    "criteria": {
+      "has_req": "2025-07-28 03:19:38 +0000"
     },
     "done": true
   },
@@ -1368,6 +1387,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-07-19 03:21:55 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_chestplate_base": {
+    "criteria": {
+      "has_req": "2025-07-28 03:19:38 +0000"
     },
     "done": true
   },
@@ -2072,6 +2097,12 @@
     },
     "done": false
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_boots_base": {
+    "criteria": {
+      "has_req": "2025-07-28 03:19:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-07-19 03:13:00 +0000"
@@ -2630,6 +2661,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_helmet_base_alt": {
+    "criteria": {
+      "has_req": "2025-07-28 03:19:38 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_minecraft/birch": {
     "criteria": {
       "has_plank": "2025-07-19 03:12:44 +0000"
@@ -3170,6 +3207,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/super_star/super_star_arrow": {
+    "criteria": {
+      "has_req": "2025-07-28 03:19:38 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/redstone/redstone_sword": {
     "criteria": {
       "has_req": "2025-07-19 03:13:00 +0000"
@@ -3239,6 +3282,12 @@
   "tconstruct:recipes/tconstruct/world/common/slime/sky/congealed": {
     "criteria": {
       "has_item": "2025-07-19 03:28:50 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_boots_base_alt": {
+    "criteria": {
+      "has_req": "2025-07-28 03:19:38 +0000"
     },
     "done": true
   },
