@@ -1086,6 +1086,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/world/wood/skyroot/log_to_wood": {
+    "criteria": {
+      "has_log": "2025-07-29 21:05:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-07-20 23:10:51 +0000"
@@ -1875,6 +1881,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/tools/tools/building/sky_staff": {
+    "criteria": {
+      "has_wood": "2025-07-29 21:05:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-07-19 03:12:44 +0000"
@@ -2086,6 +2098,12 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-07-19 04:55:51 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/world/wood/skyroot/planks": {
+    "criteria": {
+      "has_log": "2025-07-29 21:05:04 +0000"
     },
     "done": true
   },
@@ -3255,6 +3273,12 @@
     },
     "done": true
   },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-07-29 21:01:27 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.blocks/crafting/shaped/bricks/blue_stone_brick": {
     "criteria": {
       "has_req": "2025-07-20 22:29:41 +0000"
@@ -3402,6 +3426,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-07-19 03:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-29 21:06:19 +0000"
     },
     "done": true
   },
@@ -4230,6 +4260,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-21 01:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-29 21:06:19 +0000"
     },
     "done": true
   },

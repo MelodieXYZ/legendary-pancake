@@ -652,6 +652,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-29 21:05:42 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_bow_base": {
     "criteria": {
       "has_req": "2025-07-19 03:43:45 +0000"
@@ -5556,6 +5562,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/building_blocks/bison_fur_block": {
+    "criteria": {
+      "has_items": "2025-07-29 20:53:03 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/hose_nozzle": {
     "criteria": {
       "has_iron": "2025-07-21 21:36:00 +0000"
@@ -5631,6 +5643,12 @@
   "travelersbackpack:recipes/travelersbackpack/magma_cube": {
     "criteria": {
       "has_magma_cream": "2025-07-21 23:07:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/building_blocks/bison_fur_to_wool": {
+    "criteria": {
+      "has_items": "2025-07-29 20:53:03 +0000"
     },
     "done": true
   },

@@ -4061,3 +4061,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [29Jul2025 20:47:19.816] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
 [29Jul2025 20:50:04.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 has made the advancement [Local Brewery]
 [29Jul2025 20:50:17.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2145ms or 42 ticks behind
+[29Jul2025 20:50:32.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 20:50:32.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 20:50:40.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: angelo2046 moved too quickly! -5.541505965545184,-0.37673561378172593,-8.679698882368939
+[29Jul2025 20:50:40.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -8.188731787406823,2.249187078744683,5.502669736896678
+[29Jul2025 20:50:40.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3015ms or 60 ticks behind
+[29Jul2025 20:50:40.304] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1753822240304
+[29Jul2025 20:50:46.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1991, y=67, z=7662} BlockPos{x=1990, y=65, z=7662}
+[29Jul2025 20:54:25.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 fell from a high place
+[29Jul2025 20:54:36.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 fell from a high place
+[29Jul2025 20:54:37.794] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1753822477794
+[29Jul2025 20:55:35.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 20:55:35.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 20:56:17.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved wrongly!
+[29Jul2025 20:59:33.487] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35011, l='ServerLevel[world]', x=3955.38, y=71.00, z=-910.19] died, message: 'Villager was slain by Zombie'
+[29Jul2025 20:59:58.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Ancient Spirit
+[29Jul2025 21:00:08.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 was slain by Ancient Spirit
+[29Jul2025 21:00:09.383] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1753822809383
+[29Jul2025 21:00:35.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 21:00:35.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 21:01:04.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Ancient Spirit
+[29Jul2025 21:01:26.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 was slain by Ancient Spirit
+[29Jul2025 21:01:27.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki has reached the goal [Skyslime Island]
+[29Jul2025 21:01:27.828] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1753822887828
+[29Jul2025 21:03:03.002] [Server thread/INFO] [armorplus/]: Charge at: 16
+[29Jul2025 21:05:35.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 21:05:35.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 21:05:42.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [They Have a Cave Troll!]
+[29Jul2025 21:10:35.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 21:10:35.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
