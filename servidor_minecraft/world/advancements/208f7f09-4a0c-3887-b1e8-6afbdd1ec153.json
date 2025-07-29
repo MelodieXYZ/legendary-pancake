@@ -1416,6 +1416,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/coal/coal_boots_alt": {
+    "criteria": {
+      "has_req": "2025-07-29 23:27:12 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/coal/coal_battle_axe": {
     "criteria": {
       "has_req": "2025-07-19 03:13:00 +0000"
@@ -2662,6 +2668,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/coal/coal_helmet": {
+    "criteria": {
+      "has_req": "2025-07-29 23:27:12 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/iron_tier_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-07-22 18:47:22 +0000"
@@ -2930,6 +2942,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-20 21:06:53 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/coal/coal_chestplate": {
+    "criteria": {
+      "has_req": "2025-07-29 23:27:12 +0000"
     },
     "done": true
   },
@@ -3305,6 +3323,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/coal/coal_boots": {
+    "criteria": {
+      "has_req": "2025-07-29 23:27:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-19 03:25:09 +0000"
@@ -3410,6 +3434,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-07-28 04:48:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/chicken": {
+    "criteria": {
+      "has_feather": "2025-07-29 23:31:41 +0000"
     },
     "done": true
   },
@@ -3995,6 +4025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-07-29 23:27:12 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:recipes/building_blocks/bison_fur_block": {
     "criteria": {
       "has_items": "2025-07-19 04:27:19 +0000"
@@ -4355,6 +4391,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/coal/coal_leggings": {
+    "criteria": {
+      "has_req": "2025-07-29 23:27:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-07-19 03:18:33 +0000"
@@ -4544,6 +4586,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-07-19 05:21:13 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/coal/coal_helmet_alt": {
+    "criteria": {
+      "has_req": "2025-07-29 23:27:12 +0000"
     },
     "done": true
   },
