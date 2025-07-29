@@ -4,3 +4,27 @@
 [29Jul2025 00:04:24.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
 [29Jul2025 00:04:24.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: say<--[HERE]
 [29Jul2025 00:04:27.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] hola
+[29Jul2025 00:07:54.535] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@40103c25
+[29Jul2025 00:07:54.546] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:52211] logged in with entity id 349 at (3542.784733730036, 76.0, 3279.699999988079)
+[29Jul2025 00:07:54.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[29Jul2025 00:08:55.221] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[29Jul2025 00:08:55.225] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[29Jul2025 00:09:06.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[29Jul2025 00:09:06.370] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[29Jul2025 00:09:06.372] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[29Jul2025 00:09:06.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[29Jul2025 00:09:06.619] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[29Jul2025 00:09:08.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[29Jul2025 00:09:09.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[29Jul2025 00:09:09.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[29Jul2025 00:09:09.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[29Jul2025 00:09:30.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[29Jul2025 00:09:30.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[29Jul2025 00:11:54.129] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4cb46a4b
+[29Jul2025 00:11:54.139] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:36779] logged in with entity id 1230 at (3719.5227871852276, 72.0, 3194.7458719969904)
+[29Jul2025 00:11:54.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[29Jul2025 00:12:01.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was slain by Cyclops
+[29Jul2025 00:12:26.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Spectator Mode
+[29Jul2025 00:13:01.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX was slain by Cyclops
+[29Jul2025 00:13:05.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[29Jul2025 00:13:26.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Survival Mode
