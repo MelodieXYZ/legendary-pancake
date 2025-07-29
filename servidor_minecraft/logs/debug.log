@@ -3352,3 +3352,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [29Jul2025 04:54:14.798] [Worker-Main-35/DEBUG] [mixin/]: Mixing MuteSetBlockFarChunk from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
 [29Jul2025 04:54:14.798] [Worker-Main-35/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from the_bumblezone.mixins.json into net.minecraft.server.level.WorldGenRegion
 [29Jul2025 04:54:15.998] [Worker-Main-35/DEBUG] [mixin/]: Mixing world.NoiseChunkAccessor from the_bumblezone.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[29Jul2025 04:56:40.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 04:56:40.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 05:01:40.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 05:01:40.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
