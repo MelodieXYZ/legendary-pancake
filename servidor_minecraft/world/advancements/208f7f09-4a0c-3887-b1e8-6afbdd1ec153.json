@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-07-29 02:27:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-07-20 23:25:26 +0000"
@@ -2460,6 +2466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-29 02:27:38 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_minecraft/jungle": {
     "criteria": {
       "has_plank": "2025-07-19 05:00:56 +0000"
@@ -2752,6 +2764,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-07-21 01:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-29 02:27:38 +0000"
     },
     "done": true
   },
