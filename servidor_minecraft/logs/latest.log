@@ -47,3 +47,8 @@
 [29Jul2025 01:56:51.082] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2d6568da
 [29Jul2025 01:56:51.089] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:58229] logged in with entity id 47440 at (2525.2511454616847, 67.0, 7361.65589973304)
 [29Jul2025 01:56:51.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[29Jul2025 02:19:10.685] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
+[29Jul2025 02:19:10.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
+[29Jul2025 02:21:08.093] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@78ed2c5e
+[29Jul2025 02:21:08.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:51535] logged in with entity id 61499 at (3390.9625865176936, 59.0, -214.20160280606999)
+[29Jul2025 02:21:08.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
