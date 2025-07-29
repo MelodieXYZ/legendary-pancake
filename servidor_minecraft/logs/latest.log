@@ -52,3 +52,4 @@
 [29Jul2025 02:21:08.093] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@78ed2c5e
 [29Jul2025 02:21:08.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:51535] logged in with entity id 61499 at (3390.9625865176936, 59.0, -214.20160280606999)
 [29Jul2025 02:21:08.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
+[29Jul2025 02:39:47.167] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
