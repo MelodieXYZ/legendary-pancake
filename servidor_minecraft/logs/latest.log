@@ -53,3 +53,14 @@
 [29Jul2025 02:21:08.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:51535] logged in with entity id 61499 at (3390.9625865176936, 59.0, -214.20160280606999)
 [29Jul2025 02:21:08.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
 [29Jul2025 02:39:47.167] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[29Jul2025 02:48:32.918] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[29Jul2025 02:49:03.795] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[29Jul2025 02:49:03.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[29Jul2025 02:55:06.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki has made the advancement [Chompy]
+[29Jul2025 02:58:42.443] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@19cf5e4b
+[29Jul2025 02:58:42.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:54077] logged in with entity id 79576 at (2534.802759307932, 67.0, 7359.561105512914)
+[29Jul2025 02:58:42.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[29Jul2025 02:58:55.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ninouzumaki> ando haciendo lo de stevens
+[29Jul2025 02:59:02.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ninouzumaki> haciendo vacas un monton para cuero tmr
+[29Jul2025 03:03:55.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
+[29Jul2025 03:03:55.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
