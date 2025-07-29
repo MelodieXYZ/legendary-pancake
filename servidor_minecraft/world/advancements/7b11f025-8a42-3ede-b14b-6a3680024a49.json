@@ -265,6 +265,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-07-29 20:33:24 +0000",
       "cooked_cod": "2025-07-29 20:14:40 +0000",
       "rotten_flesh": "2025-07-19 03:59:35 +0000",
       "cod": "2025-07-29 20:14:20 +0000",
@@ -605,6 +606,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-19 03:48:45 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-07-29 20:30:44 +0000"
     },
     "done": true
   },
@@ -1436,6 +1443,12 @@
   "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/flint_shuriken": {
     "criteria": {
       "has_item": "2025-07-22 20:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-29 20:30:43 +0000"
     },
     "done": true
   },

@@ -205,3 +205,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [29Jul2025 20:28:39.925] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@680c4efc
 [29Jul2025 20:28:39.933] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: angelo2046[/127.58.202.33:42813] logged in with entity id 12855 at (1451.4277700105931, 70.0, 261.8575832819018)
 [29Jul2025 20:28:39.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 joined the game
+[29Jul2025 20:30:43.375] [Server thread/INFO] [armorplus/]: Charge at: 29
+[29Jul2025 20:30:43.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 has made the advancement [Take Aim]
+[29Jul2025 20:30:44.921] [Server thread/INFO] [armorplus/]: Charge at: 27
+[29Jul2025 20:30:44.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 has made the advancement [Jennifer Dumped Me]
+[29Jul2025 20:30:57.945] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2fe2a924
+[29Jul2025 20:30:57.953] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:35083] logged in with entity id 14682 at (4008.513405859492, 70.0, -830.750000215289)
+[29Jul2025 20:30:57.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
+[29Jul2025 20:31:00.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: angelo2046 moved too quickly! 9.937502527091965,0.9031272476744903,-1.875598191233621
+[29Jul2025 20:31:00.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2309ms or 46 ticks behind
+[29Jul2025 20:31:40.155] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2461, y=63, z=7403} BlockPos{x=2461, y=62, z=7402}
+[29Jul2025 20:31:40.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2461, y=63, z=7403} BlockPos{x=2461, y=62, z=7402}
+[29Jul2025 20:32:25.015] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[29Jul2025 20:32:25.015] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[29Jul2025 20:32:44.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[29Jul2025 20:32:44.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[29Jul2025 20:35:26.865] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/18621, l='ServerLevel[world]', x=1573.50, y=58.00, z=291.50]
+[29Jul2025 20:36:48.766] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/19430, l='ServerLevel[world]', x=1575.50, y=55.00, z=299.50]
+[29Jul2025 20:37:49.441] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1fae8a9a
+[29Jul2025 20:37:49.452] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:57271] logged in with entity id 20358 at (2506.0695004900026, 63.0, 7354.220285871998)
+[29Jul2025 20:37:49.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[29Jul2025 20:37:50.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki moved too quickly! 9.845506540270435,-2.6970941796417094,-0.21269702178074112
+[29Jul2025 20:37:52.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[29Jul2025 20:37:52.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[29Jul2025 20:37:59.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[29Jul2025 20:37:59.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
