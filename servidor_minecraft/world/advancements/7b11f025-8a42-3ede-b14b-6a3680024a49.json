@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/combat/frontier_cap": {
+    "criteria": {
+      "has_items": "2025-07-29 22:58:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-07-29 20:57:26 +0000"
@@ -575,6 +581,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/tools/falconry_glove": {
+    "criteria": {
+      "has_items": "2025-07-29 22:58:57 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/lapis/lapis_bow": {
     "criteria": {
       "has_req": "2025-07-29 21:19:48 +0000"
@@ -806,6 +818,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-07-29 21:40:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/misc/banner_pattern_bear": {
+    "criteria": {
+      "has_items": "2025-07-29 22:58:57 +0000"
     },
     "done": true
   },
@@ -1084,6 +1102,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-07-19 03:56:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-07-29 22:52:42 +0000"
     },
     "done": true
   },
@@ -1742,6 +1766,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-07-29 22:58:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-07-19 03:39:23 +0000"
@@ -2075,6 +2105,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-07-19 03:40:29 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2025-07-29 22:52:52 +0000"
     },
     "done": true
   },
