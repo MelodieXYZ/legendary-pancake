@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-29 21:49:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-07-20 20:44:55 +0000"
@@ -3213,6 +3219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-29 21:49:55 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/super_star/super_star_mace_alt": {
     "criteria": {
       "has_req": "2025-07-21 07:22:04 +0000"
@@ -3786,6 +3798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-29 21:49:55 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/coal/coal_battle_axe": {
     "criteria": {
       "has_req": "2025-07-19 00:54:15 +0000"
@@ -4124,6 +4142,7 @@
       "minecraft:river": "2025-07-19 03:33:33 +0000",
       "minecraft:lukewarm_ocean": "2025-07-20 02:14:13 +0000",
       "minecraft:stony_shore": "2025-07-19 02:05:04 +0000",
+      "minecraft:snowy_plains": "2025-07-29 21:46:41 +0000",
       "minecraft:dripstone_caves": "2025-07-19 06:42:55 +0000",
       "minecraft:snowy_taiga": "2025-07-21 05:56:06 +0000",
       "minecraft:swamp": "2025-07-20 03:46:58 +0000",
