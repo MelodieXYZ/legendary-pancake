@@ -5006,6 +5006,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-07-29 23:41:00 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_sword_base": {
     "criteria": {
       "has_req": "2025-07-21 07:22:04 +0000"

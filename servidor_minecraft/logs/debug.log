@@ -5530,3 +5530,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [29Jul2025 23:26:58.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Jul2025 23:31:58.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jul2025 23:31:58.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 23:36:58.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 23:36:58.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 23:41:00.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Jennifer Dumped Me]
+[29Jul2025 23:41:58.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 23:41:58.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 23:42:36.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2539, y=64, z=-61} BlockPos{x=2539, y=62, z=-61}
+[29Jul2025 23:42:36.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2539, y=64, z=-61} BlockPos{x=2539, y=62, z=-61}
+[29Jul2025 23:43:33.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown item 'minecraft:esmeralds'
+[29Jul2025 23:43:33.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...mondkingx esmeralds 17<--[HERE]
+[29Jul2025 23:43:48.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown item 'minecraft:esmeralds'
+[29Jul2025 23:43:48.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...mondkingx esmeralds 17<--[HERE]
+[29Jul2025 23:44:20.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown item 'minecraft:esmerald'
+[29Jul2025 23:44:20.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...mondkingx esmerald 17<--[HERE]
+[29Jul2025 23:44:39.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 17 [Emerald] to DiamondKingX
+[29Jul2025 23:44:55.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [What a Deal!]
