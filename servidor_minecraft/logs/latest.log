@@ -42,3 +42,8 @@
 [29Jul2025 01:29:40.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ninouzumaki> hola andrwsita
 [29Jul2025 01:30:30.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ninouzumaki> duerme porfavor
 [29Jul2025 01:30:43.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ninouzumaki> gracias andrew
+[29Jul2025 01:56:31.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[29Jul2025 01:56:31.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[29Jul2025 01:56:51.082] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2d6568da
+[29Jul2025 01:56:51.089] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:58229] logged in with entity id 47440 at (2525.2511454616847, 67.0, 7361.65589973304)
+[29Jul2025 01:56:51.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
