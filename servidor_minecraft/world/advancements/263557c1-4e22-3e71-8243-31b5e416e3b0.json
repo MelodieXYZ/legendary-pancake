@@ -4302,6 +4302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-29 20:23:53 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_boots": {
     "criteria": {
       "has_item": "2025-07-19 01:50:17 +0000"
@@ -5304,6 +5310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-29 20:23:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_stairs": {
     "criteria": {
       "has_planks": "2025-07-28 05:11:23 +0000"
@@ -5337,6 +5349,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/guardian/guardian_mace_alt": {
     "criteria": {
       "has_req": "2025-07-21 07:22:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/punji": {
+    "criteria": {
+      "has_item": "2025-07-29 20:23:53 +0000"
     },
     "done": true
   },

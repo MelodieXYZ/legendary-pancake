@@ -265,7 +265,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_cod": "2025-07-29 20:14:40 +0000",
       "rotten_flesh": "2025-07-19 03:59:35 +0000",
+      "cod": "2025-07-29 20:14:20 +0000",
       "carrot": "2025-07-22 18:04:57 +0000"
     },
     "done": false
@@ -294,15 +296,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-07-22 20:18:26 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/travelersbackpack/iron_tier_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-07-22 18:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-07-22 20:18:26 +0000"
     },
     "done": true
   },
@@ -717,6 +719,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-22 18:11:45 +0000",
+      "minecraft:spider": "2025-07-29 20:03:12 +0000",
       "minecraft:creeper": "2025-07-22 18:43:50 +0000",
       "minecraft:zombie": "2025-07-19 03:41:32 +0000"
     },
@@ -776,15 +779,15 @@
     },
     "done": true
   },
-  "supplementaries:recipes/sign_post_minecraft/birch": {
-    "criteria": {
-      "has_plank": "2025-07-22 20:11:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-07-22 18:30:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_minecraft/birch": {
+    "criteria": {
+      "has_plank": "2025-07-22 20:11:26 +0000"
     },
     "done": true
   },
