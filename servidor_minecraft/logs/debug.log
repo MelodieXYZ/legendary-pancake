@@ -4098,3 +4098,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [29Jul2025 21:19:49.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 has made the advancement [Not Today, Thank You]
 [29Jul2025 21:20:35.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jul2025 21:20:35.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 21:21:46.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 30 [Bread] to DiamondKingX
+[29Jul2025 21:21:55.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Jul2025 21:22:05.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 30 [Bread] to angelo2046
+[29Jul2025 21:22:24.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Ancient Spirit
+[29Jul2025 21:22:48.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Timed out
+[29Jul2025 21:22:48.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
+[29Jul2025 21:22:48.540] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jul2025 21:24:06.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Cave Spider
+[29Jul2025 21:24:14.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Ancient Spirit
+[29Jul2025 21:25:05.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Jul2025 21:25:11.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 64 [Torch] to DiamondKingX
+[29Jul2025 21:25:35.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 21:25:35.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 21:27:24.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Ancient Spirit
+[29Jul2025 21:27:58.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Ancient Spirit
+[29Jul2025 21:28:52.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Ancient Spirit
+[29Jul2025 21:29:18.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Ancient Spirit
+[29Jul2025 21:30:08.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Ancient Spirit
+[29Jul2025 21:30:23.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Ancient Spirit
+[29Jul2025 21:30:35.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 21:30:35.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 21:30:43.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Cave Spider
+[29Jul2025 21:30:57.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Cave Spider
+[29Jul2025 21:31:20.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to angelo2046
