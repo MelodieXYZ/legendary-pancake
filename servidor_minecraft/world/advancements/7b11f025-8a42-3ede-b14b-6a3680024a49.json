@@ -484,6 +484,7 @@
       "minecraft:skeleton": "2025-07-22 18:11:45 +0000",
       "minecraft:spider": "2025-07-29 20:03:12 +0000",
       "minecraft:creeper": "2025-07-22 18:43:50 +0000",
+      "minecraft:phantom": "2025-07-29 22:46:33 +0000",
       "minecraft:cave_spider": "2025-07-29 21:29:46 +0000",
       "minecraft:stray": "2025-07-29 22:01:56 +0000",
       "minecraft:zombie": "2025-07-19 03:41:32 +0000"
@@ -922,6 +923,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-29 22:30:54 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/emerald/emerald_bow": {
     "criteria": {
       "has_req": "2025-07-29 21:19:48 +0000"
@@ -1043,6 +1050,7 @@
       "minecraft:frozen_river": "2025-07-29 20:48:21 +0000",
       "minecraft:birch_forest": "2025-07-22 18:49:18 +0000",
       "minecraft:beach": "2025-07-19 03:40:39 +0000",
+      "minecraft:sparse_jungle": "2025-07-29 22:38:26 +0000",
       "minecraft:river": "2025-07-19 03:42:50 +0000",
       "minecraft:lukewarm_ocean": "2025-07-29 22:21:14 +0000",
       "minecraft:stony_shore": "2025-07-19 03:54:35 +0000",
@@ -1056,6 +1064,7 @@
       "minecraft:ocean": "2025-07-19 03:43:03 +0000",
       "minecraft:jungle": "2025-07-29 22:25:25 +0000",
       "minecraft:snowy_beach": "2025-07-29 22:02:55 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-29 22:39:21 +0000",
       "minecraft:plains": "2025-07-19 03:54:42 +0000"
     },
     "done": false

@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/world/wood/skyroot/pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-29 22:40:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-07-28 04:02:06 +0000"
@@ -68,6 +74,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-07-28 04:08:42 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/world/wood/skyroot/stairs": {
+    "criteria": {
+      "has_planks": "2025-07-29 22:40:53 +0000"
     },
     "done": true
   },
@@ -491,6 +503,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_tconstruct/skyroot": {
+    "criteria": {
+      "has_plank": "2025-07-29 22:40:53 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.armors/crafting/shaped/slime/slime_helmet_alt": {
     "criteria": {
       "has_req": "2025-07-19 05:06:59 +0000"
@@ -656,6 +674,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-07-28 04:08:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_tconstruct/skyroot": {
+    "criteria": {
+      "has_plank": "2025-07-29 22:40:53 +0000"
     },
     "done": true
   },
@@ -1977,6 +2001,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/world/wood/skyroot/door": {
+    "criteria": {
+      "has_planks": "2025-07-29 22:40:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-07-19 05:21:13 +0000"
@@ -2254,6 +2284,12 @@
   "armorplus:recipes/armorplus.armors/crafting/shaped/emerald/emerald_leggings": {
     "criteria": {
       "has_req": "2025-07-21 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/world/wood/skyroot/trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-29 22:40:53 +0000"
     },
     "done": true
   },
@@ -2545,6 +2581,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/world/wood/skyroot/slab": {
+    "criteria": {
+      "has_planks": "2025-07-29 22:40:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-20 22:38:27 +0000"
@@ -2711,6 +2753,12 @@
   "travelersbackpack:recipes/travelersbackpack/gray_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2025-07-28 04:52:59 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/world/wood/skyroot/button": {
+    "criteria": {
+      "has_planks": "2025-07-29 22:40:53 +0000"
     },
     "done": true
   },
@@ -3981,6 +4029,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/world/wood/skyroot/fence": {
+    "criteria": {
+      "has_planks": "2025-07-29 22:40:53 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/super_star/super_star_arrow": {
     "criteria": {
       "has_req": "2025-07-28 03:19:38 +0000"
@@ -4329,6 +4383,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/world/wood/skyroot/sign": {
+    "criteria": {
+      "has_planks": "2025-07-29 22:40:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-07-19 05:00:56 +0000"
@@ -4512,6 +4572,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/coal/coal_sword": {
     "criteria": {
       "has_req": "2025-07-19 03:13:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/world/wood/skyroot/fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-29 22:40:53 +0000"
     },
     "done": true
   },
