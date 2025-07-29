@@ -1418,6 +1418,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/combat/shield_of_the_deep": {
+    "criteria": {
+      "has_items": "2025-07-29 03:45:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-19 00:55:07 +0000"
@@ -2475,6 +2481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-07-29 03:54:55 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:recipes/misc/cockroach_wing": {
     "criteria": {
       "has_items": "2025-07-19 06:31:53 +0000"
@@ -2700,6 +2712,12 @@
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "tool": "2025-07-28 06:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2025-07-29 03:54:56 +0000"
     },
     "done": true
   },
@@ -3210,6 +3228,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-07-19 03:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-07-29 03:54:55 +0000"
     },
     "done": true
   },
@@ -4988,6 +5012,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-21 06:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_pink_dye": "2025-07-29 03:54:55 +0000"
     },
     "done": true
   },
