@@ -476,3 +476,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [29Jul2025 23:44:20.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...mondkingx esmerald 17<--[HERE]
 [29Jul2025 23:44:39.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 17 [Emerald] to DiamondKingX
 [29Jul2025 23:44:55.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [What a Deal!]
+[29Jul2025 23:52:31.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
+[29Jul2025 23:52:31.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[29Jul2025 23:52:35.794] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2806087f
+[29Jul2025 23:52:35.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:33285] logged in with entity id 147054 at (1344.1317563539149, 46.0, 722.7958014342344)
+[29Jul2025 23:52:35.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[29Jul2025 23:54:43.652] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[29Jul2025 23:54:43.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[29Jul2025 23:55:41.847] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
+[29Jul2025 23:55:41.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[29Jul2025 23:55:46.224] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@153620f4
+[29Jul2025 23:55:46.228] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:43845] logged in with entity id 148125 at (1344.3504886194885, 46.0, 721.6166704111572)
+[29Jul2025 23:55:46.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
