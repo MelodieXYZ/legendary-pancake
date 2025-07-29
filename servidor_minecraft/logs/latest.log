@@ -289,3 +289,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [29Jul2025 21:30:43.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Cave Spider
 [29Jul2025 21:30:57.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Cave Spider
 [29Jul2025 21:31:20.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to angelo2046
+[29Jul2025 21:32:00.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Cave Spider
+[29Jul2025 21:32:07.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to angelo2046
+[29Jul2025 21:32:27.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to DiamondKingX
+[29Jul2025 21:32:44.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unable to apply this effect (target is either immune to effects, or has something stronger)
+[29Jul2025 21:32:58.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to DiamondKingX
+[29Jul2025 21:33:31.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown effect: minecraft:resistency
+[29Jul2025 21:34:13.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown effect: minecraft:endurance
+[29Jul2025 21:34:42.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown effect: minecraft:endurance
+[29Jul2025 21:35:27.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Cave Spider
+[29Jul2025 21:35:37.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Resistance to DiamondKingX
+[29Jul2025 21:35:49.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to angelo2046
+[29Jul2025 21:35:56.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Resistance to angelo2046
+[29Jul2025 21:36:03.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Resistance to DiamondKingX
+[29Jul2025 21:36:43.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 50 [Bread] to angelo2046
+[29Jul2025 21:38:57.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Ancient Spirit
+[29Jul2025 21:39:02.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[29Jul2025 21:39:02.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[29Jul2025 21:39:12.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Saturation to angelo2046
+[29Jul2025 21:39:24.882] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@44d8cd65
+[29Jul2025 21:39:24.889] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:51239] logged in with entity id 62751 at (1278.699999988079, 31.0, 8208.699999988079)
+[29Jul2025 21:39:24.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[29Jul2025 21:39:31.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Ancient Spirit
+[29Jul2025 21:39:34.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Saturation to DiamondKingX
+[29Jul2025 21:39:44.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Saturation to DiamondKingX
+[29Jul2025 21:39:52.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Ancient Spirit
+[29Jul2025 21:39:56.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Ancient Spirit
+[29Jul2025 21:40:00.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Ancient Spirit
+[29Jul2025 21:40:07.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Saturation to angelo2046
+[29Jul2025 21:40:14.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to angelo2046
+[29Jul2025 21:40:47.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Saturation to DiamondKingX
+[29Jul2025 21:41:13.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Saturation to DiamondKingX
+[29Jul2025 21:41:20.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Saturation to DiamondKingX
