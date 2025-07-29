@@ -230,3 +230,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [29Jul2025 20:37:52.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
 [29Jul2025 20:37:59.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
 [29Jul2025 20:37:59.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[29Jul2025 20:42:12.551] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@141332d1
+[29Jul2025 20:42:12.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:50975] logged in with entity id 23767 at (2506.0695004900026, 63.0, 7354.220285871998)
+[29Jul2025 20:42:12.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[29Jul2025 20:42:13.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of angelo2046) moved too quickly! 0.12363677884559365,0.0,-10.399262054073745
+[29Jul2025 20:42:13.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of angelo2046) moved too quickly! 0.12839201203223638,0.0,-10.799233674229782
+[29Jul2025 20:42:37.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <angelo2046> acabar en andrew
+[29Jul2025 20:42:43.789] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom-200 below top]
+[29Jul2025 20:43:14.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 has reached the goal [Earthslime Island]
+[29Jul2025 20:44:48.222] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[29Jul2025 20:44:57.424] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[29Jul2025 20:44:57.424] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[29Jul2025 20:46:52.957] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: angelo2046 lost connection: Kicked by an operator
+[29Jul2025 20:46:52.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 left the game
+[29Jul2025 20:46:52.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kicked angelo2046: Kicked by an operator
+[29Jul2025 20:46:53.018] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jul2025 20:47:02.136] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@67767b4f
+[29Jul2025 20:47:02.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: angelo2046[/127.58.202.33:33269] logged in with entity id 30640 at (1791.925053030874, 62.07326432507255, -1416.3125)
+[29Jul2025 20:47:02.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 joined the game
+[29Jul2025 20:47:19.816] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[29Jul2025 20:50:04.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 has made the advancement [Local Brewery]
+[29Jul2025 20:50:17.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2145ms or 42 ticks behind

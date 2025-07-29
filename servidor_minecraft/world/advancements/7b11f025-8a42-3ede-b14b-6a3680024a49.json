@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/storage/lava_crystal": {
+    "criteria": {
+      "has_req": "2025-07-29 20:36:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-19 04:01:12 +0000"
@@ -666,6 +672,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/lapis/lapis_battle_axe": {
     "criteria": {
       "has_req": "2025-07-19 03:40:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-07-29 20:42:18 +0000"
     },
     "done": true
   },
@@ -1326,6 +1338,12 @@
     },
     "done": true
   },
+  "tconstruct:world/earth_island": {
+    "criteria": {
+      "found_island": "2025-07-29 20:43:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-07-19 03:41:13 +0000"
@@ -1340,11 +1358,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-07-29 20:41:27 +0000",
       "minecraft:birch_forest": "2025-07-22 18:49:18 +0000",
       "minecraft:beach": "2025-07-19 03:40:39 +0000",
       "minecraft:river": "2025-07-19 03:42:50 +0000",
       "minecraft:stony_shore": "2025-07-19 03:54:35 +0000",
+      "minecraft:cold_ocean": "2025-07-29 20:42:29 +0000",
       "minecraft:forest": "2025-07-19 03:38:13 +0000",
+      "minecraft:deep_cold_ocean": "2025-07-29 20:42:14 +0000",
+      "minecraft:frozen_ocean": "2025-07-29 20:44:45 +0000",
+      "minecraft:deep_frozen_ocean": "2025-07-29 20:44:52 +0000",
       "minecraft:ocean": "2025-07-19 03:43:03 +0000",
       "minecraft:plains": "2025-07-19 03:54:42 +0000"
     },
@@ -1467,6 +1490,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-07-22 20:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-29 20:42:18 +0000"
     },
     "done": true
   },
