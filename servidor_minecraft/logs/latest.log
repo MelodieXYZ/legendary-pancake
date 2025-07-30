@@ -435,3 +435,7 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 03:34:47.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PredatorX_2000) moved wrongly! 0.4330526881622063
 [30Jul2025 03:34:47.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PredatorX_2000) moved wrongly! 0.4520453992131479
 [30Jul2025 03:40:24.070] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/219766, l='ServerLevel[world]', x=2477.50, y=63.00, z=7425.21] died, message: 'Farmer was slain by Zombie'
+[30Jul2025 04:01:57.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to DiamondKingX
+[30Jul2025 04:03:23.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 30 [Bread] to DiamondKingX
+[30Jul2025 04:03:40.863] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[30Jul2025 04:03:40.863] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
