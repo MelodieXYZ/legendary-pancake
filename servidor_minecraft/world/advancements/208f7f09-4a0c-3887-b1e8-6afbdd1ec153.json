@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/obsidian/obsidian_helmet": {
+    "criteria": {
+      "has_req": "2025-07-30 00:07:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-07-29 20:36:58 +0000"
@@ -804,6 +810,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/obsidian/obsidian_boots": {
+    "criteria": {
+      "has_req": "2025-07-30 00:07:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-07-20 19:58:20 +0000"
@@ -973,6 +985,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2025-07-20 20:50:53 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/obsidian/obsidian_boots_alt": {
+    "criteria": {
+      "has_req": "2025-07-30 00:07:26 +0000"
     },
     "done": true
   },
@@ -3262,6 +3280,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/obsidian/obsidian_leggings": {
+    "criteria": {
+      "has_req": "2025-07-30 00:07:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-07-20 23:31:23 +0000"
@@ -3289,6 +3313,12 @@
   "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/flint_shuriken": {
     "criteria": {
       "has_item": "2025-07-20 20:18:46 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/obsidian/obsidian_helmet_alt": {
+    "criteria": {
+      "has_req": "2025-07-30 00:07:26 +0000"
     },
     "done": true
   },
@@ -3523,6 +3553,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-20 21:06:53 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/building_blocks/crafting/shapeless/storage/obsidian_to_item_adv": {
+    "criteria": {
+      "has_req": "2025-07-30 00:07:26 +0000"
     },
     "done": true
   },
@@ -3848,6 +3884,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-19 03:25:09 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/obsidian/obsidian_chestplate": {
+    "criteria": {
+      "has_req": "2025-07-30 00:07:26 +0000"
     },
     "done": true
   },
