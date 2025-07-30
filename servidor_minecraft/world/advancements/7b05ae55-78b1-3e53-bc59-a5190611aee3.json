@@ -738,6 +738,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/frost_lava/frost_lava_boots": {
+    "criteria": {
+      "has_req": "2025-07-30 04:43:46 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/obsidian/obsidian_bow": {
     "criteria": {
       "has_req": "2025-07-20 02:53:42 +0000"
@@ -1009,6 +1015,12 @@
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-07-30 02:13:01 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/frost_lava/frost_lava_leggings": {
+    "criteria": {
+      "has_req": "2025-07-30 04:43:46 +0000"
     },
     "done": true
   },
@@ -1993,6 +2005,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/frost_lava/frost_lava_chestplate": {
+    "criteria": {
+      "has_req": "2025-07-30 04:43:46 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/blue_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2025-07-21 22:30:08 +0000"
@@ -2916,6 +2934,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/frost_lava/frost_lava_helmet_alt": {
+    "criteria": {
+      "has_req": "2025-07-30 04:43:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-07-19 02:10:13 +0000"
@@ -3492,6 +3516,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shapeless/the_ultimate_material_adv": {
+    "criteria": {
+      "has_req": "2025-07-30 04:43:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-07-19 00:57:27 +0000"
@@ -3741,6 +3771,12 @@
   "supplementaries:recipes/hanging_sign_minecraft/jungle": {
     "criteria": {
       "has_plank": "2025-07-20 18:19:36 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/frost_lava/frost_lava_boots_alt": {
+    "criteria": {
+      "has_req": "2025-07-30 04:43:46 +0000"
     },
     "done": true
   },
@@ -4029,6 +4065,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-07-19 02:01:52 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/frost_lava/frost_lava_helmet": {
+    "criteria": {
+      "has_req": "2025-07-30 04:43:46 +0000"
     },
     "done": true
   },

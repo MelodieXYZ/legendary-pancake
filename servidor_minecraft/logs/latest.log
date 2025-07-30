@@ -459,3 +459,12 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 04:34:36.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2525, y=64, z=7355} BlockPos{x=2525, y=63, z=7355}
 [30Jul2025 04:36:13.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
 [30Jul2025 04:36:13.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[30Jul2025 04:41:22.152] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2e79222f
+[30Jul2025 04:41:22.158] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:48071] logged in with entity id 265883 at (2480.246528013029, 63.0, 7438.322792399266)
+[30Jul2025 04:41:22.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[30Jul2025 04:43:10.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to PredatorX_2000
+[30Jul2025 04:44:25.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
+[30Jul2025 04:44:25.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[30Jul2025 04:44:30.338] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1d24546
+[30Jul2025 04:44:30.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:51123] logged in with entity id 267631 at (1337.2987931062642, 46.0, 743.6354938437893)
+[30Jul2025 04:44:30.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
