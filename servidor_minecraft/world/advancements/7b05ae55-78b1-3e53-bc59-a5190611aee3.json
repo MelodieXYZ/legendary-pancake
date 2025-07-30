@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-07-30 03:55:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-07-20 18:15:24 +0000"
@@ -895,6 +901,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-07-19 01:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-07-30 03:55:09 +0000"
     },
     "done": true
   },
@@ -2518,6 +2530,7 @@
       "mutton": "2025-07-20 02:54:48 +0000",
       "bread": "2025-07-19 01:42:01 +0000",
       "rotten_flesh": "2025-07-19 01:43:12 +0000",
+      "melon_slice": "2025-07-30 03:55:15 +0000",
       "beetroot": "2025-07-20 05:56:45 +0000",
       "cooked_chicken": "2025-07-19 01:05:58 +0000",
       "cod": "2025-07-20 03:10:05 +0000",
@@ -3897,6 +3910,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-07-30 03:55:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-07-19 01:57:44 +0000"
@@ -4314,6 +4333,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-07-19 02:01:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-07-30 03:55:09 +0000"
     },
     "done": true
   },
