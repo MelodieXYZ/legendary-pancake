@@ -499,6 +499,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/frost_lava/frost_lava_boots": {
+    "criteria": {
+      "has_req": "2025-07-30 04:35:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-07-19 01:08:38 +0000"
@@ -1887,6 +1893,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/frost_lava/frost_lava_helmet_alt": {
+    "criteria": {
+      "has_req": "2025-07-30 04:35:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-07-19 01:09:37 +0000"
@@ -2622,6 +2634,12 @@
   "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_boots_base_alt": {
     "criteria": {
       "has_req": "2025-07-21 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/frost_lava/frost_lava_helmet": {
+    "criteria": {
+      "has_req": "2025-07-30 04:35:44 +0000"
     },
     "done": true
   },
@@ -3636,6 +3654,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/frost_lava/frost_lava_leggings": {
+    "criteria": {
+      "has_req": "2025-07-30 04:35:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-07-19 00:54:22 +0000"
@@ -4358,6 +4382,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/frost_lava/frost_lava_chestplate": {
+    "criteria": {
+      "has_req": "2025-07-30 04:35:44 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/guardian/guardian_mace": {
     "criteria": {
       "has_req": "2025-07-21 07:22:04 +0000"
@@ -4759,6 +4789,7 @@
       "cooked_cod": "2025-07-28 03:12:09 +0000",
       "bread": "2025-07-19 02:07:32 +0000",
       "rotten_flesh": "2025-07-19 01:43:39 +0000",
+      "cookie": "2025-07-30 04:30:49 +0000",
       "melon_slice": "2025-07-28 07:09:10 +0000",
       "cooked_chicken": "2025-07-19 01:13:22 +0000",
       "cooked_salmon": "2025-07-20 21:27:50 +0000",
@@ -5354,6 +5385,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shapeless/the_ultimate_material_adv": {
+    "criteria": {
+      "has_req": "2025-07-30 04:35:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-07-19 01:16:21 +0000"
@@ -5567,6 +5604,12 @@
   "minecraft:recipes/decorations/green_candle": {
     "criteria": {
       "has_green_dye": "2025-07-28 07:08:18 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/frost_lava/frost_lava_boots_alt": {
+    "criteria": {
+      "has_req": "2025-07-30 04:35:44 +0000"
     },
     "done": true
   },
