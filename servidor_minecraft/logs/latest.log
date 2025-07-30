@@ -439,3 +439,19 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 04:03:23.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 30 [Bread] to DiamondKingX
 [30Jul2025 04:03:40.863] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
 [30Jul2025 04:03:40.863] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[30Jul2025 04:15:27.112] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[30Jul2025 04:15:27.112] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[30Jul2025 04:15:34.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[30Jul2025 04:15:34.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[30Jul2025 04:15:40.230] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@584c330f
+[30Jul2025 04:15:40.234] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:43505] logged in with entity id 251988 at (2486.0457306291833, 63.0, 7430.874505085461)
+[30Jul2025 04:15:40.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[30Jul2025 04:15:43.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2498, y=55, z=7333} BlockPos{x=2498, y=54, z=7332}
+[30Jul2025 04:15:45.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2498, y=56, z=7330} BlockPos{x=2498, y=54, z=7330}
+[30Jul2025 04:15:45.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2498, y=57, z=7330} BlockPos{x=2498, y=54, z=7330}
+[30Jul2025 04:15:45.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2498, y=57, z=7330} BlockPos{x=2498, y=54, z=7330}
+[30Jul2025 04:15:46.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2501, y=60, z=7329} BlockPos{x=2501, y=59, z=7329}
+[30Jul2025 04:15:46.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2501, y=61, z=7328} BlockPos{x=2501, y=60, z=7328}
+[30Jul2025 04:16:02.156] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2518, y=61, z=7315} BlockPos{x=2518, y=60, z=7315}
+[30Jul2025 04:17:42.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 drowned
+[30Jul2025 04:18:11.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to PredatorX_2000
