@@ -1781,6 +1781,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shapeless/storage/frost_shard_to_item_adv": {
+    "criteria": {
+      "has_req": "2025-07-30 00:19:14 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/quartz": {
     "criteria": {
       "has_quartz": "2025-07-28 04:08:42 +0000"

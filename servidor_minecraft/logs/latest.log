@@ -47,3 +47,11 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 00:15:38.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
 [30Jul2025 00:15:47.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki moved too quickly! 0.779369954615504,1.7531999805212024,-9.935216311056791
 [30Jul2025 00:15:47.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5110ms or 102 ticks behind
+[30Jul2025 00:20:53.986] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@225c93c2
+[30Jul2025 00:20:53.993] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:50411] logged in with entity id 159045 at (1342.0357845180758, 46.0, 727.8647235807218)
+[30Jul2025 00:20:54.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[30Jul2025 00:21:51.198] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[30Jul2025 00:21:51.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[30Jul2025 00:25:41.505] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1da068aa
+[30Jul2025 00:25:41.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:38649] logged in with entity id 160349 at (1341.362965651343, 46.0, 732.8069451935123)
+[30Jul2025 00:25:41.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
