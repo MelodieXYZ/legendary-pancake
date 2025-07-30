@@ -1078,6 +1078,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/misc/straddle_helmet": {
+    "criteria": {
+      "has_items": "2025-07-30 02:54:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-07-19 01:48:43 +0000"
@@ -2835,6 +2841,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/building_blocks/straddlite_block": {
+    "criteria": {
+      "has_items": "2025-07-30 02:54:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-07-20 05:48:47 +0000"
@@ -3645,6 +3657,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/transportation/straddleboard": {
+    "criteria": {
+      "has_items": "2025-07-30 02:54:16 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_chestplate": {
     "criteria": {
       "has_item": "2025-07-19 02:17:34 +0000"
@@ -3792,6 +3810,12 @@
   "travelersbackpack:recipes/travelersbackpack/standard": {
     "criteria": {
       "has_chest": "2025-07-21 22:34:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/transportation/straddle_saddle": {
+    "criteria": {
+      "has_items": "2025-07-30 02:54:16 +0000"
     },
     "done": true
   },

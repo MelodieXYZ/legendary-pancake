@@ -266,3 +266,14 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 02:47:44.921] [Server thread/INFO] [armorplus/]: Charge at: 26
 [30Jul2025 02:47:46.525] [Server thread/INFO] [armorplus/]: Charge at: 22
 [30Jul2025 02:49:04.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to DiamondKingX
+[30Jul2025 02:53:20.875] [Server thread/INFO] [armorplus/]: Charge at: 50
+[30Jul2025 02:53:23.139] [Server thread/INFO] [armorplus/]: Charge at: 40
+[30Jul2025 02:53:31.675] [Server thread/INFO] [armorplus/]: Charge at: 45
+[30Jul2025 02:53:34.076] [Server thread/INFO] [armorplus/]: Charge at: 42
+[30Jul2025 02:58:03.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 30 [Bread] to DiamondKingX
+[30Jul2025 02:59:28.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=176, y=98, z=1043} BlockPos{x=176, y=97, z=1043}
+[30Jul2025 02:59:28.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=176, y=98, z=1043} BlockPos{x=176, y=97, z=1043}
+[30Jul2025 02:59:28.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=176, y=98, z=1043} BlockPos{x=176, y=97, z=1043}
+[30Jul2025 02:59:28.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=176, y=98, z=1043} BlockPos{x=176, y=97, z=1043}
+[30Jul2025 02:59:28.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=176, y=98, z=1043} BlockPos{x=176, y=97, z=1043}
+[30Jul2025 02:59:28.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=176, y=98, z=1043} BlockPos{x=176, y=97, z=1043}
