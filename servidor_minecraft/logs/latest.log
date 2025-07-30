@@ -455,3 +455,4 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 04:16:02.156] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2518, y=61, z=7315} BlockPos{x=2518, y=60, z=7315}
 [30Jul2025 04:17:42.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 drowned
 [30Jul2025 04:18:11.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to PredatorX_2000
+[30Jul2025 04:25:43.410] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
