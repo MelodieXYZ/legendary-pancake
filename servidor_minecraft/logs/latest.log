@@ -426,3 +426,5 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 03:14:34.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /xp 10 p<--[HERE]
 [30Jul2025 03:15:01.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 36 experience levels to PredatorX_2000
 [30Jul2025 03:15:28.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 1 experience levels to DiamondKingX
+[30Jul2025 03:20:36.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by DiamondKingX
+[30Jul2025 03:24:30.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Fishy Business]
