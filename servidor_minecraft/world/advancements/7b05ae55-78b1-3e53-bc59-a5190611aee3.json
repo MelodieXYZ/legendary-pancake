@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-30 02:13:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-07-19 02:01:52 +0000"
@@ -305,6 +311,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_helmet_base": {
+    "criteria": {
+      "has_req": "2025-07-30 02:05:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-19 02:01:52 +0000"
@@ -392,6 +404,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-21 06:05:06 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tools/modifiers/wither_bone_conversion": {
+    "criteria": {
+      "has_bone": "2025-07-30 02:04:57 +0000"
     },
     "done": true
   },
@@ -773,6 +791,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-07-30 02:04:40 +0000",
       "minecraft:skeleton": "2025-07-19 00:53:31 +0000",
       "minecraft:ghast": "2025-07-30 01:47:11 +0000",
       "minecraft:hoglin": "2025-07-30 00:52:07 +0000",
@@ -780,6 +799,7 @@
       "minecraft:spider": "2025-07-19 03:41:33 +0000",
       "minecraft:piglin_brute": "2025-07-30 00:59:52 +0000",
       "minecraft:creeper": "2025-07-21 06:52:24 +0000",
+      "minecraft:wither_skeleton": "2025-07-30 02:04:54 +0000",
       "minecraft:cave_spider": "2025-07-21 06:12:44 +0000",
       "minecraft:piglin": "2025-07-28 05:02:35 +0000",
       "minecraft:enderman": "2025-07-20 03:11:39 +0000",
@@ -896,6 +916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-30 02:13:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-28 02:59:07 +0000"
@@ -929,6 +955,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/lapis/lapis_bow": {
     "criteria": {
       "has_req": "2025-07-20 02:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-30 02:13:01 +0000"
     },
     "done": true
   },
@@ -1070,6 +1102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-30 02:05:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-07-19 01:08:47 +0000"
@@ -1145,6 +1183,18 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-07-20 21:10:04 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_leggings_base": {
+    "criteria": {
+      "has_req": "2025-07-30 02:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-30 02:13:01 +0000"
     },
     "done": true
   },
@@ -1592,6 +1642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-30 02:13:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-07-19 02:01:59 +0000"
@@ -1607,6 +1663,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-07-19 00:53:31 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_chestplate_base": {
+    "criteria": {
+      "has_req": "2025-07-30 02:05:18 +0000"
     },
     "done": true
   },
@@ -2235,6 +2297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-30 02:13:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-19 02:43:05 +0000"
@@ -2413,6 +2481,12 @@
   "armorplus:recipes/armorplus.armors/crafting/shaped/redstone/redstone_leggings": {
     "criteria": {
       "has_req": "2025-07-21 01:29:26 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_boots_base": {
+    "criteria": {
+      "has_req": "2025-07-30 02:05:18 +0000"
     },
     "done": true
   },
@@ -3067,6 +3141,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_helmet_base_alt": {
+    "criteria": {
+      "has_req": "2025-07-30 02:05:18 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_minecraft/birch": {
     "criteria": {
       "has_plank": "2025-07-19 00:50:50 +0000"
@@ -3289,6 +3369,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-30 02:13:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-07-20 02:53:42 +0000"
@@ -3322,6 +3408,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-07-19 01:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-30 02:03:17 +0000"
     },
     "done": true
   },
@@ -3649,6 +3741,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-30 02:05:19 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/super_star/super_star_arrow": {
+    "criteria": {
+      "has_req": "2025-07-30 02:05:18 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/redstone/redstone_sword": {
     "criteria": {
       "has_req": "2025-07-19 00:51:55 +0000"
@@ -3697,6 +3801,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-30 02:05:19 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/magma_cube": {
     "criteria": {
       "has_magma_cream": "2025-07-30 01:07:01 +0000"
@@ -3718,6 +3828,12 @@
   "tconstruct:recipes/tconstruct/world/common/slime/sky/congealed": {
     "criteria": {
       "has_item": "2025-07-19 02:53:38 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_boots_base_alt": {
+    "criteria": {
+      "has_req": "2025-07-30 02:05:18 +0000"
     },
     "done": true
   },
@@ -3748,6 +3864,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/lapis/lapis_arrow": {
     "criteria": {
       "has_req": "2025-07-19 01:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-30 02:13:01 +0000"
     },
     "done": true
   },
@@ -3955,6 +4077,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-30 02:13:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-19 02:43:05 +0000"
@@ -4024,6 +4152,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-07-28 04:45:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-30 02:05:19 +0000"
     },
     "done": true
   },

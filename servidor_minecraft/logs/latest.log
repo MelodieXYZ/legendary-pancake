@@ -136,3 +136,52 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 01:54:14.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=264, y=86, z=1109} BlockPos{x=262, y=86, z=1109}
 [30Jul2025 01:54:36.435] [Server thread/INFO] [armorplus/]: Charge at: 25
 [30Jul2025 01:57:45.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was burnt to a crisp whilst fighting PredatorX_2000
+[30Jul2025 01:58:54.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=90, y=86, z=1163} BlockPos{x=91, y=86, z=1162}
+[30Jul2025 01:58:54.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=90, y=86, z=1163} BlockPos{x=91, y=86, z=1162}
+[30Jul2025 01:58:54.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=90, y=86, z=1163} BlockPos{x=91, y=86, z=1162}
+[30Jul2025 01:58:54.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=90, y=86, z=1163} BlockPos{x=91, y=86, z=1162}
+[30Jul2025 01:58:54.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=90, y=86, z=1163} BlockPos{x=91, y=86, z=1162}
+[30Jul2025 01:58:54.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=90, y=86, z=1163} BlockPos{x=91, y=86, z=1162}
+[30Jul2025 01:58:54.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=90, y=86, z=1163} BlockPos{x=91, y=86, z=1162}
+[30Jul2025 01:58:54.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=90, y=86, z=1163} BlockPos{x=91, y=86, z=1162}
+[30Jul2025 01:58:54.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=90, y=86, z=1163} BlockPos{x=91, y=86, z=1162}
+[30Jul2025 01:59:46.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=65, z=1190} BlockPos{x=66, y=64, z=1190}
+[30Jul2025 02:03:17.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [A Terrible Fortress]
+[30Jul2025 02:03:35.276] [Server thread/INFO] [armorplus/]: Charge at: 15
+[30Jul2025 02:03:59.575] [Server thread/INFO] [armorplus/]: Charge at: 3
+[30Jul2025 02:04:07.731] [Server thread/INFO] [armorplus/]: Charge at: 53
+[30Jul2025 02:04:09.733] [Server thread/INFO] [armorplus/]: Charge at: 23
+[30Jul2025 02:04:22.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 30 [Bread] to DiamondKingX
+[30Jul2025 02:04:31.276] [Server thread/INFO] [armorplus/]: Charge at: 49
+[30Jul2025 02:04:34.978] [Server thread/INFO] [armorplus/]: Charge at: 44
+[30Jul2025 02:04:38.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to DiamondKingX
+[30Jul2025 02:04:39.630] [Server thread/INFO] [armorplus/]: Charge at: 64
+[30Jul2025 02:04:51.978] [Server thread/INFO] [armorplus/]: Charge at: 234
+[30Jul2025 02:04:54.777] [Server thread/INFO] [armorplus/]: Charge at: 31
+[30Jul2025 02:04:59.578] [Server thread/INFO] [armorplus/]: Charge at: 31
+[30Jul2025 02:05:01.829] [Server thread/INFO] [armorplus/]: Charge at: 37
+[30Jul2025 02:05:06.430] [Server thread/INFO] [armorplus/]: Charge at: 81
+[30Jul2025 02:05:19.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Into Fire]
+[30Jul2025 02:06:18.428] [Server thread/INFO] [armorplus/]: Charge at: 39
+[30Jul2025 02:06:21.029] [Server thread/INFO] [armorplus/]: Charge at: 46
+[30Jul2025 02:07:07.876] [Server thread/INFO] [armorplus/]: Charge at: 46
+[30Jul2025 02:07:10.476] [Server thread/INFO] [armorplus/]: Charge at: 23
+[30Jul2025 02:07:23.131] [Server thread/INFO] [armorplus/]: Charge at: 18
+[30Jul2025 02:07:24.926] [Server thread/INFO] [armorplus/]: Charge at: 27
+[30Jul2025 02:08:18.730] [Server thread/INFO] [armorplus/]: Charge at: 28
+[30Jul2025 02:08:57.227] [Server thread/INFO] [armorplus/]: Charge at: 24
+[30Jul2025 02:08:58.227] [Server thread/INFO] [armorplus/]: Charge at: 15
+[30Jul2025 02:08:59.981] [Server thread/INFO] [armorplus/]: Charge at: 17
+[30Jul2025 02:09:01.231] [Server thread/INFO] [armorplus/]: Charge at: 17
+[30Jul2025 02:09:03.477] [Server thread/INFO] [armorplus/]: Charge at: 40
+[30Jul2025 02:09:57.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to DiamondKingX
+[30Jul2025 02:11:19.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
+[30Jul2025 02:11:19.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
+[30Jul2025 02:16:12.025] [Server thread/INFO] [armorplus/]: Charge at: 31
+[30Jul2025 02:16:13.676] [Server thread/INFO] [armorplus/]: Charge at: 27
+[30Jul2025 02:16:15.127] [Server thread/INFO] [armorplus/]: Charge at: 26
+[30Jul2025 02:16:19.131] [Server thread/INFO] [armorplus/]: Charge at: 32
+[30Jul2025 02:16:21.176] [Server thread/INFO] [armorplus/]: Charge at: 37
+[30Jul2025 02:16:23.131] [Server thread/INFO] [armorplus/]: Charge at: 36
+[30Jul2025 02:16:33.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to DiamondKingX
+[30Jul2025 02:17:35.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to DiamondKingX
