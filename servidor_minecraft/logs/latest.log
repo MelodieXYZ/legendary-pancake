@@ -469,3 +469,6 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 04:44:30.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:51123] logged in with entity id 267631 at (1337.2987931062642, 46.0, 743.6354938437893)
 [30Jul2025 04:44:30.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
 [30Jul2025 04:58:08.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <PredatorX_2000> DiamondKingX
+[30Jul2025 05:15:54.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 2469.500000, 65.000000, 7436.500000
+[30Jul2025 05:17:00.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to PredatorX_2000
+[30Jul2025 05:17:39.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 2469.500000, 65.000000, 7436.500000

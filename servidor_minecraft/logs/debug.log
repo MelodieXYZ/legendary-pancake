@@ -8143,3 +8143,10 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 05:03:22.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jul2025 05:08:22.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Jul2025 05:08:22.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 05:13:22.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 05:13:22.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 05:15:54.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 2469.500000, 65.000000, 7436.500000
+[30Jul2025 05:17:00.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to PredatorX_2000
+[30Jul2025 05:17:39.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 2469.500000, 65.000000, 7436.500000
+[30Jul2025 05:18:22.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 05:18:22.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
