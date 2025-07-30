@@ -60,3 +60,9 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 00:32:15.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
 [30Jul2025 00:36:13.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has completed the challenge [Return to Sender]
 [30Jul2025 00:46:02.636] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6a0f6d50
+[30Jul2025 00:51:12.431] [Server thread/INFO] [armorplus/]: Charge at: 40
+[30Jul2025 00:52:31.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Those Were the Days]
+[30Jul2025 00:55:15.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was slain by Piglin Brute
+[30Jul2025 00:56:02.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No entity was found
+[30Jul2025 00:56:18.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to DiamondKingX
+[30Jul2025 00:56:28.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [War Pigs]

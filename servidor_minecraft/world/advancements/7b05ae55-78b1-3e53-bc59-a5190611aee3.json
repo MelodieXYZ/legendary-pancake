@@ -713,6 +713,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-19 00:53:31 +0000",
+      "minecraft:hoglin": "2025-07-30 00:52:07 +0000",
       "minecraft:spider": "2025-07-19 03:41:33 +0000",
       "minecraft:creeper": "2025-07-21 06:52:24 +0000",
       "minecraft:cave_spider": "2025-07-21 06:12:44 +0000",
@@ -1683,6 +1684,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-28 02:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-30 00:52:31 +0000"
     },
     "done": true
   },

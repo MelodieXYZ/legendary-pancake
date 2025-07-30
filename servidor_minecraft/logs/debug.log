@@ -6562,3 +6562,14 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 00:43:18.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Jul2025 00:43:18.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jul2025 00:46:02.636] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6a0f6d50
+[30Jul2025 00:48:14.479] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1753836494479
+[30Jul2025 00:48:18.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 00:48:18.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 00:51:12.431] [Server thread/INFO] [armorplus/]: Charge at: 40
+[30Jul2025 00:52:31.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Those Were the Days]
+[30Jul2025 00:53:18.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 00:53:18.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 00:55:15.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was slain by Piglin Brute
+[30Jul2025 00:56:02.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No entity was found
+[30Jul2025 00:56:18.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to DiamondKingX
+[30Jul2025 00:56:28.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [War Pigs]
