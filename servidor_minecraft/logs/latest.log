@@ -100,3 +100,19 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 01:26:34.329] [Server thread/INFO] [armorplus/]: Charge at: 32
 [30Jul2025 01:26:37.188] [Server thread/INFO] [armorplus/]: Charge at: 35
 [30Jul2025 01:27:39.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX burned to death
+[30Jul2025 01:30:16.626] [Server thread/INFO] [armorplus/]: Charge at: 70
+[30Jul2025 01:30:19.431] [Server thread/INFO] [armorplus/]: Charge at: 47
+[30Jul2025 01:30:21.686] [Server thread/INFO] [armorplus/]: Charge at: 34
+[30Jul2025 01:30:24.183] [Server thread/INFO] [armorplus/]: Charge at: 43
+[30Jul2025 01:31:41.529] [Server thread/INFO] [armorplus/]: Charge at: 33
+[30Jul2025 01:31:43.482] [Server thread/INFO] [armorplus/]: Charge at: 35
+[30Jul2025 01:31:47.610] [Server thread/INFO] [armorplus/]: Charge at: 78
+[30Jul2025 01:31:49.729] [Server thread/INFO] [armorplus/]: Charge at: 40
+[30Jul2025 01:31:52.109] [Server thread/INFO] [armorplus/]: Charge at: 43
+[30Jul2025 01:31:54.481] [Server thread/INFO] [armorplus/]: Charge at: 45
+[30Jul2025 01:31:57.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki has made the advancement [A walking tower]
+[30Jul2025 01:32:41.028] [Server thread/INFO] [armorplus/]: Charge at: 104
+[30Jul2025 01:32:54.889] [Server thread/INFO] [armorplus/]: Charge at: 28
+[30Jul2025 01:33:04.689] [Server thread/INFO] [armorplus/]: Charge at: 192
+[30Jul2025 01:36:32.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=318, y=91, z=238} BlockPos{x=318, y=89, z=237}
+[30Jul2025 01:36:49.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Hot Stuff]
