@@ -308,3 +308,121 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 03:07:46.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:37375] logged in with entity id 219629 at (2452.7767376391375, 16.731523797587013, 7432.905834452137)
 [30Jul2025 03:07:46.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
 [30Jul2025 03:08:14.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to PredatorX_2000
+[30Jul2025 03:09:52.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[30Jul2025 03:09:52.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...ve predato<--[HERE]
+[30Jul2025 03:10:05.278] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@c1db9ea
+[30Jul2025 03:10:05.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:52203] logged in with entity id 220516 at (2455.699999988079, 26.0, 7434.699999988079)
+[30Jul2025 03:10:05.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[30Jul2025 03:11:29.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
+[30Jul2025 03:11:29.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[30Jul2025 03:11:34.528] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4a338d15
+[30Jul2025 03:11:34.532] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:48761] logged in with entity id 220751 at (2459.699999988079, 69.0, 7433.699999988079)
+[30Jul2025 03:11:34.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[30Jul2025 03:12:32.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <PredatorX_2000> w
+[30Jul2025 03:13:01.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
+[30Jul2025 03:13:01.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /xp predatorx_2000 36 levels<--[HERE]
+[30Jul2025 03:13:19.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
+[30Jul2025 03:13:19.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xp predatorx_2000 36 levels<--[HERE]
+[30Jul2025 03:13:30.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /advancement (grant|revoke)
+[30Jul2025 03:13:30.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /attribute <target> <attribute> (get|base|modifier)
+[30Jul2025 03:13:30.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
+[30Jul2025 03:13:30.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /bossbar (add|remove|list|set|get)
+[30Jul2025 03:13:30.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clear [<targets>]
+[30Jul2025 03:13:30.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clone <begin> <end> <destination> [replace|masked|filtered]
+[30Jul2025 03:13:30.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /data (merge|get|remove|modify)
+[30Jul2025 03:13:30.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /datapack (enable|disable|list)
+[30Jul2025 03:13:30.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /debug (start|stop|function)
+[30Jul2025 03:13:30.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /defaultgamemode (survival|creative|adventure|spectator)
+[30Jul2025 03:13:30.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /difficulty [peaceful|easy|normal|hard]
+[30Jul2025 03:13:30.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /effect (clear|give)
+[30Jul2025 03:13:30.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /me <action>
+[30Jul2025 03:13:30.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /enchant <targets> <enchantment> [<level>]
+[30Jul2025 03:13:30.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /experience (add|set|query)
+[30Jul2025 03:13:30.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /xp -> experience
+[30Jul2025 03:13:30.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[30Jul2025 03:13:30.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forceload (add|remove|query)
+[30Jul2025 03:13:30.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /function <name>
+[30Jul2025 03:13:30.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamemode (survival|creative|adventure|spectator)
+[30Jul2025 03:13:30.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[30Jul2025 03:13:30.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /give <targets> <item> [<count>]
+[30Jul2025 03:13:30.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /help [<command>]
+[30Jul2025 03:13:30.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /item (replace|modify)
+[30Jul2025 03:13:30.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kick <targets> [<reason>]
+[30Jul2025 03:13:30.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kill [<targets>]
+[30Jul2025 03:13:30.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /list [uuids]
+[30Jul2025 03:13:30.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locate <structure>
+[30Jul2025 03:13:30.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locatebiome <biome>
+[30Jul2025 03:13:30.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /loot (replace|insert|give|spawn)
+[30Jul2025 03:13:30.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /msg <targets> <message>
+[30Jul2025 03:13:30.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tell -> msg
+[30Jul2025 03:13:30.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /w -> msg
+[30Jul2025 03:13:30.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /particle <name> [<pos>]
+[30Jul2025 03:13:30.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /placefeature <feature> [<pos>]
+[30Jul2025 03:13:30.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[30Jul2025 03:13:30.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /reload
+[30Jul2025 03:13:30.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /recipe (give|take)
+[30Jul2025 03:13:30.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /say <message>
+[30Jul2025 03:13:30.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /schedule (function|clear)
+[30Jul2025 03:13:30.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /scoreboard (objectives|players)
+[30Jul2025 03:13:30.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /seed
+[30Jul2025 03:13:30.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[30Jul2025 03:13:30.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spawnpoint [<targets>]
+[30Jul2025 03:13:30.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setworldspawn [<pos>]
+[30Jul2025 03:13:30.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spectate [<target>]
+[30Jul2025 03:13:30.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[30Jul2025 03:13:30.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[30Jul2025 03:13:30.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /summon <entity> [<pos>]
+[30Jul2025 03:13:30.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tag <targets> (add|remove|list)
+[30Jul2025 03:13:30.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /team (list|add|remove|empty|join|leave|modify)
+[30Jul2025 03:13:30.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teammsg <message>
+[30Jul2025 03:13:30.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tm -> teammsg
+[30Jul2025 03:13:30.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teleport (<location>|<destination>|<targets>)
+[30Jul2025 03:13:30.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tp -> teleport
+[30Jul2025 03:13:30.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tellraw <targets> <message>
+[30Jul2025 03:13:30.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /time (set|add|query)
+[30Jul2025 03:13:30.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[30Jul2025 03:13:30.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /trigger <objective> [add|set]
+[30Jul2025 03:13:30.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /weather (clear|rain|thunder)
+[30Jul2025 03:13:30.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /worldborder (add|set|center|damage|get|warning)
+[30Jul2025 03:13:30.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /jfr (start|stop)
+[30Jul2025 03:13:30.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban-ip <target> [<reason>]
+[30Jul2025 03:13:30.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /banlist [ips|players]
+[30Jul2025 03:13:30.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban <targets> [<reason>]
+[30Jul2025 03:13:30.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /deop <targets>
+[30Jul2025 03:13:30.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /op <targets>
+[30Jul2025 03:13:30.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon <targets>
+[30Jul2025 03:13:30.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon-ip <target>
+[30Jul2025 03:13:30.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /perf (start|stop)
+[30Jul2025 03:13:30.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-all [flush]
+[30Jul2025 03:13:30.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-off
+[30Jul2025 03:13:30.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-on
+[30Jul2025 03:13:30.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setidletimeout <minutes>
+[30Jul2025 03:13:30.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stop
+[30Jul2025 03:13:30.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /whitelist (on|off|list|add|remove|reload)
+[30Jul2025 03:13:30.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tacz (attachment_lock|debug|dummy|overwrite|reload|hide_tooltip_part|convert)
+[30Jul2025 03:13:30.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tb (access|restore|remove|clear|unpack)
+[30Jul2025 03:13:30.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /config showfile <mod> <type>
+[30Jul2025 03:13:30.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[30Jul2025 03:13:30.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /emotes (play|stop|reload)
+[30Jul2025 03:13:30.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /armorplus (discord|info|nodecraft|wiki|support)
+[30Jul2025 03:13:30.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /supplementaries (globe|reload|configured|roll|cage|record)
+[30Jul2025 03:13:30.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tconstruct (modifiers|tool_stats|slots|modifier_usage)
+[30Jul2025 03:13:30.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /open-patchouli-book <targets> <book> [<entry>]
+[30Jul2025 03:13:30.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /mantle (view_tag|dump_tag|dump_loot_modifiers|dump_all_tags|tags_for|harvest_tiers|tag_preference)
+[30Jul2025 03:13:30.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /witherstormmod (phase|consumedEntities|cluster|chunks|evolutionSpeed|sickness|explode|revive|bowels|distractions|ultimateTarget|config)
+[30Jul2025 03:13:30.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /cmdconfig
+[30Jul2025 03:13:30.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /revive <players>
+[30Jul2025 03:13:54.714] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[30Jul2025 03:13:54.714] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[30Jul2025 03:13:59.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[30Jul2025 03:13:59.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xp<--[HERE]
+[30Jul2025 03:14:01.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[30Jul2025 03:14:01.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xp<--[HERE]
+[30Jul2025 03:14:14.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
+[30Jul2025 03:14:14.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xp 10 points<--[HERE]
+[30Jul2025 03:14:21.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
+[30Jul2025 03:14:21.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /xp 10 points<--[HERE]
+[30Jul2025 03:14:34.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
+[30Jul2025 03:14:34.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /xp 10 p<--[HERE]
+[30Jul2025 03:15:01.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 36 experience levels to PredatorX_2000
+[30Jul2025 03:15:28.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 1 experience levels to DiamondKingX
