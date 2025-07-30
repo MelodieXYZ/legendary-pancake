@@ -66,3 +66,18 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 00:56:02.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No entity was found
 [30Jul2025 00:56:18.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to DiamondKingX
 [30Jul2025 00:56:28.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [War Pigs]
+[30Jul2025 00:58:23.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was slain by Piglin Brute
+[30Jul2025 00:58:34.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by Piglin Brute
+[30Jul2025 00:58:49.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by Piglin Brute
+[30Jul2025 00:59:21.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by Piglin Brute
+[30Jul2025 01:04:37.478] [Server thread/INFO] [armorplus/]: Charge at: 76
+[30Jul2025 01:04:40.729] [Server thread/INFO] [armorplus/]: Charge at: 41
+[30Jul2025 01:04:43.328] [Server thread/INFO] [armorplus/]: Charge at: 48
+[30Jul2025 01:04:45.525] [Server thread/INFO] [armorplus/]: Charge at: 37
+[30Jul2025 01:04:48.228] [Server thread/INFO] [armorplus/]: Charge at: 43
+[30Jul2025 01:04:51.528] [Server thread/INFO] [armorplus/]: Charge at: 48
+[30Jul2025 01:07:23.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by DiamondKingX
+[30Jul2025 01:07:25.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 was slain by DiamondKingX
+[30Jul2025 01:07:25.643] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PredatorX_2000 with unique ID travelersbackpack.bookshelf_30.07.2025-01.07.25.dat
+[30Jul2025 01:07:25.645] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 316 Y: 38 Z: 243
+[30Jul2025 01:07:26.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was slain by Piglin Brute

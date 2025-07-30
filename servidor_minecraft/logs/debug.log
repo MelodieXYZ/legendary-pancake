@@ -6573,3 +6573,27 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 00:56:02.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No entity was found
 [30Jul2025 00:56:18.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to DiamondKingX
 [30Jul2025 00:56:28.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [War Pigs]
+[30Jul2025 00:58:18.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 00:58:18.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 00:58:23.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was slain by Piglin Brute
+[30Jul2025 00:58:34.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by Piglin Brute
+[30Jul2025 00:58:49.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by Piglin Brute
+[30Jul2025 00:59:21.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by Piglin Brute
+[30Jul2025 01:03:18.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 01:03:18.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 01:04:07.283] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1753837447283
+[30Jul2025 01:04:37.478] [Server thread/INFO] [armorplus/]: Charge at: 76
+[30Jul2025 01:04:40.729] [Server thread/INFO] [armorplus/]: Charge at: 41
+[30Jul2025 01:04:43.328] [Server thread/INFO] [armorplus/]: Charge at: 48
+[30Jul2025 01:04:45.525] [Server thread/INFO] [armorplus/]: Charge at: 37
+[30Jul2025 01:04:48.228] [Server thread/INFO] [armorplus/]: Charge at: 43
+[30Jul2025 01:04:51.528] [Server thread/INFO] [armorplus/]: Charge at: 48
+[30Jul2025 01:04:56.724] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1753837496724
+[30Jul2025 01:05:04.525] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1753837504525
+[30Jul2025 01:05:13.090] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1753837513090
+[30Jul2025 01:07:23.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by DiamondKingX
+[30Jul2025 01:07:25.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 was slain by DiamondKingX
+[30Jul2025 01:07:25.643] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PredatorX_2000 with unique ID travelersbackpack.bookshelf_30.07.2025-01.07.25.dat
+[30Jul2025 01:07:25.645] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 316 Y: 38 Z: 243
+[30Jul2025 01:07:26.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was slain by Piglin Brute
+[30Jul2025 01:07:30.773] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1753837650773
