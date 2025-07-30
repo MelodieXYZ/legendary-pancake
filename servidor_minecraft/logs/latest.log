@@ -185,3 +185,22 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 02:16:23.131] [Server thread/INFO] [armorplus/]: Charge at: 36
 [30Jul2025 02:16:33.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to DiamondKingX
 [30Jul2025 02:17:35.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to DiamondKingX
+[30Jul2025 02:21:24.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was slain by Wither Skeleton
+[30Jul2025 02:21:31.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to DiamondKingX
+[30Jul2025 02:22:01.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was slain by Wither Skeleton
+[30Jul2025 02:23:05.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to DiamondKingX
+[30Jul2025 02:24:13.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was slain by Wither Skeleton
+[30Jul2025 02:24:20.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to DiamondKingX
+[30Jul2025 02:27:26.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> espera
+[30Jul2025 02:27:33.681] [Server thread/INFO] [armorplus/]: Charge at: 58
+[30Jul2025 02:27:36.278] [Server thread/INFO] [armorplus/]: Charge at: 37
+[30Jul2025 02:27:40.676] [Server thread/INFO] [armorplus/]: Charge at: 66
+[30Jul2025 02:27:54.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was slain by Wither Skeleton
+[30Jul2025 02:27:54.885] [Server thread/INFO] [armorplus/]: Charge at: 26
+[30Jul2025 02:27:56.427] [Server thread/INFO] [armorplus/]: Charge at: 18
+[30Jul2025 02:27:57.583] [Server thread/INFO] [armorplus/]: Charge at: 12
+[30Jul2025 02:28:02.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to DiamondKingX
+[30Jul2025 02:28:19.734] [Server thread/INFO] [armorplus/]: Charge at: 11
+[30Jul2025 02:28:21.183] [Server thread/INFO] [armorplus/]: Charge at: 19
+[30Jul2025 02:28:22.234] [Server thread/INFO] [armorplus/]: Charge at: 17
+[30Jul2025 02:28:23.333] [Server thread/INFO] [armorplus/]: Charge at: 16
