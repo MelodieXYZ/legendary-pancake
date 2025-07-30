@@ -686,9 +686,11 @@
   "tconstruct:foundry/plate_armor": {
     "criteria": {
       "crafted_leggings": "2025-07-28 06:36:33 +0000",
-      "crafted_boots": "2025-07-28 06:36:49 +0000"
+      "crafted_boots": "2025-07-28 06:36:49 +0000",
+      "crafted_helmet": "2025-07-30 00:27:41 +0000",
+      "crafted_chestplate": "2025-07-30 00:27:38 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {

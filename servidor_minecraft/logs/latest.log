@@ -55,3 +55,7 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 00:25:41.505] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1da068aa
 [30Jul2025 00:25:41.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:38649] logged in with entity id 160349 at (1341.362965651343, 46.0, 732.8069451935123)
 [30Jul2025 00:25:41.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[30Jul2025 00:27:41.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has reached the goal [Plate Armor]
+[30Jul2025 00:30:38.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -13.725920872622282,3.571132334609814,1.7335724417567917
+[30Jul2025 00:32:15.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
+[30Jul2025 00:36:13.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has completed the challenge [Return to Sender]
