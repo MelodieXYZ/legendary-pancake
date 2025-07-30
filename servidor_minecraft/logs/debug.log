@@ -5823,3 +5823,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [29Jul2025 23:55:46.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
 [29Jul2025 23:55:47.251] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: 7b05ae55-78b1-3e53-bc59-a5190611aee3 data: NetData{purpose=CONFIG, threshold=8.0, stopEmoteID=null, emoteData=null, startingAt=0, player=null}
 [29Jul2025 23:55:48.099] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1753833348099
+[29Jul2025 23:55:51.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2820ms or 56 ticks behind
+[29Jul2025 23:57:01.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 23:57:01.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 00:01:50.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki has made the advancement [Enchanter]
+[30Jul2025 00:02:01.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 00:02:01.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
