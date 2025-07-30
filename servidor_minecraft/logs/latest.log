@@ -277,3 +277,34 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 02:59:28.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=176, y=98, z=1043} BlockPos{x=176, y=97, z=1043}
 [30Jul2025 02:59:28.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=176, y=98, z=1043} BlockPos{x=176, y=97, z=1043}
 [30Jul2025 02:59:28.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=176, y=98, z=1043} BlockPos{x=176, y=97, z=1043}
+[30Jul2025 03:00:22.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has completed the challenge [Return to Sender]
+[30Jul2025 03:01:44.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3460ms or 69 ticks behind
+[30Jul2025 03:01:45.962] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[30Jul2025 03:02:14.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 fell from a high place
+[30Jul2025 03:02:20.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
+[30Jul2025 03:02:20.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[30Jul2025 03:02:20.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 fell from a high place
+[30Jul2025 03:02:20.127] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PredatorX_2000 with unique ID travelersbackpack.magma_cube_30.07.2025-03.02.20.dat
+[30Jul2025 03:02:20.128] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2453 Y: 15 Z: 7434
+[30Jul2025 03:03:12.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[30Jul2025 03:03:12.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[30Jul2025 03:04:17.468] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3efe54e3
+[30Jul2025 03:04:17.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:52309] logged in with entity id 216861 at (2453.4424365617897, 15.0, 7434.575412610381)
+[30Jul2025 03:04:17.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[30Jul2025 03:04:54.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to 2469.500000, 65.000000, 7436.500000
+[30Jul2025 03:05:48.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by Spectacled Caiman
+[30Jul2025 03:06:06.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by Spectacled Caiman
+[30Jul2025 03:06:17.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to PredatorX_2000
+[30Jul2025 03:06:21.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to PredatorX_2000
+[30Jul2025 03:06:34.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to PredatorX_2000
+[30Jul2025 03:06:37.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
+[30Jul2025 03:06:37.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[30Jul2025 03:06:51.969] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@49d3371c
+[30Jul2025 03:06:51.974] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:57505] logged in with entity id 218977 at (2463.3006256243275, 67.10360926093821, 7438.717759523982)
+[30Jul2025 03:06:51.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[30Jul2025 03:07:35.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[30Jul2025 03:07:35.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[30Jul2025 03:07:46.168] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5572a4f7
+[30Jul2025 03:07:46.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:37375] logged in with entity id 219629 at (2452.7767376391375, 16.731523797587013, 7432.905834452137)
+[30Jul2025 03:07:46.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[30Jul2025 03:08:14.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Applied effect Regeneration to PredatorX_2000
