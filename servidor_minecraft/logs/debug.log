@@ -8171,3 +8171,7 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 05:58:22.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jul2025 06:00:07.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> duerme mrd
 [30Jul2025 06:00:52.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] duerme mrd
+[30Jul2025 06:03:22.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 06:03:22.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 06:08:22.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 06:08:22.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
