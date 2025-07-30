@@ -428,3 +428,9 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 03:15:28.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 1 experience levels to DiamondKingX
 [30Jul2025 03:20:36.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by DiamondKingX
 [30Jul2025 03:24:30.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Fishy Business]
+[30Jul2025 03:33:52.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 1 [Coat of Arms] to PredatorX_2000
+[30Jul2025 03:34:45.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PredatorX_2000) moved wrongly! 0.9429035200937506
+[30Jul2025 03:34:45.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PredatorX_2000) moved wrongly! 1.1677659899251012
+[30Jul2025 03:34:46.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PredatorX_2000) moved wrongly! 0.4527022120851143
+[30Jul2025 03:34:47.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PredatorX_2000) moved wrongly! 0.4330526881622063
+[30Jul2025 03:34:47.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PredatorX_2000) moved wrongly! 0.4520453992131479
