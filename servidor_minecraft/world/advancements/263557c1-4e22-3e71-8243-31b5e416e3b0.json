@@ -2595,6 +2595,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/blaze_smithing": {
+    "criteria": {
+      "has_blaze": "2025-07-30 01:50:07 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/world/common/slime/sky/congealed": {
     "criteria": {
       "has_item": "2025-07-19 02:23:41 +0000"
