@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-07-30 01:07:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-07-19 00:49:09 +0000"
@@ -625,7 +631,8 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
-      "sky": "2025-07-19 02:53:38 +0000"
+      "sky": "2025-07-19 02:53:38 +0000",
+      "magma_cream": "2025-07-30 01:07:01 +0000"
     },
     "done": false
   },
@@ -750,6 +757,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-19 00:53:31 +0000",
       "minecraft:hoglin": "2025-07-30 00:52:07 +0000",
+      "minecraft:magma_cube": "2025-07-30 01:05:40 +0000",
       "minecraft:spider": "2025-07-19 03:41:33 +0000",
       "minecraft:piglin_brute": "2025-07-30 00:59:52 +0000",
       "minecraft:creeper": "2025-07-21 06:52:24 +0000",
@@ -1286,6 +1294,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-07-20 17:53:17 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/nether_grout": {
+    "criteria": {
+      "has_item": "2025-07-30 01:07:01 +0000"
     },
     "done": true
   },
@@ -3086,6 +3100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-30 01:10:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-07-19 00:50:50 +0000"
@@ -3560,6 +3580,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-07-30 01:07:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-07-19 01:57:44 +0000"
@@ -3701,6 +3727,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-28 04:45:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-30 01:10:33 +0000"
     },
     "done": true
   },

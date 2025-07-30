@@ -81,3 +81,17 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 01:07:25.643] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PredatorX_2000 with unique ID travelersbackpack.bookshelf_30.07.2025-01.07.25.dat
 [30Jul2025 01:07:25.645] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 316 Y: 38 Z: 243
 [30Jul2025 01:07:26.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was slain by Piglin Brute
+[30Jul2025 01:07:43.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was slain by Piglin Brute
+[30Jul2025 01:08:00.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was slain by Piglin Brute
+[30Jul2025 01:09:26.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
+[30Jul2025 01:10:03.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 30 [Bread] to DiamondKingX
+[30Jul2025 01:10:35.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Hidden in the Depths]
+[30Jul2025 01:13:02.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was slain by Piglin
+[30Jul2025 01:13:22.659] [Server thread/INFO] [armorplus/]: Charge at: 84
+[30Jul2025 01:13:25.360] [Server thread/INFO] [armorplus/]: Charge at: 50
+[30Jul2025 01:13:30.608] [Server thread/INFO] [armorplus/]: Charge at: 37
+[30Jul2025 01:13:33.257] [Server thread/INFO] [armorplus/]: Charge at: 36
+[30Jul2025 01:14:41.682] [Server thread/INFO] [armorplus/]: Charge at: 56
+[30Jul2025 01:14:44.780] [Server thread/INFO] [armorplus/]: Charge at: 43
+[30Jul2025 01:15:09.689] [Server thread/INFO] [armorplus/]: Charge at: 25
+[30Jul2025 01:15:10.686] [Server thread/INFO] [armorplus/]: Charge at: 11
