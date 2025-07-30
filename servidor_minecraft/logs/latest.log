@@ -59,3 +59,4 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 00:30:38.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -13.725920872622282,3.571132334609814,1.7335724417567917
 [30Jul2025 00:32:15.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
 [30Jul2025 00:36:13.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has completed the challenge [Return to Sender]
+[30Jul2025 00:46:02.636] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6a0f6d50
